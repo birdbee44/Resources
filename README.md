@@ -11,6 +11,9 @@
 - Sherlock Find Usernames Across Social Networks    - https://github.com/sherlock-project/sherlock
 - OSINT-SPY Search using OSINT                      - https://github.com/SharadKumar97/OSINT-SPY
 - SpiderFoot OSINT Tool                             - https://github.com/smicallef/spiderfoot
+- KillShot A Penetration Framework                  - https://github.com/bahaabdelwahed/killshot
+- Ethereum recon and exploitation tool              - https://github.com/cleanunicorn/theo
+- Find breached emails, databases, pastes           - https://github.com/Ekultek/WhatBreach
 
 # MALWARE
 - fireELF - Fileless Linux Malware Framework          - https://github.com/rek7/fireELF
@@ -23,6 +26,11 @@
 - Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
 
+# WEB 
+- Trasxss automated XSS                                      - https://github.com/M4cs/traxss
+- XSpear Powerfull XSS Scanning And Parameter Analysis Tool  - https://github.com/hahwul/XSpear
+- XSSCon: Simple XSS Scanner tool                            - https://github.com/menkrep1337/XSSCon
+- 
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
