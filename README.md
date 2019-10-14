@@ -1,9 +1,9 @@
 # Resouces
 
 # PHISHING TOOLS
-- Modlishka. Reverse Proxy - https://github.com/drk1wi/Modlishka
-- Evilginx2  MITM phishing - https://github.com/kgretzky/evilginx2
-- HiddenEye                - https://github.com/DarkSecDevelopers/HiddenEye
+- Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
+- Evilginx2  MITM phishing    - https://github.com/kgretzky/evilginx2
+- HiddenEye                   - https://github.com/DarkSecDevelopers/HiddenEye
 
 # OSINT
 - Mitaka A Browser Extension For OSINT Search       - https://github.com/ninoseki/mitaka
@@ -16,10 +16,10 @@
 - Find breached emails, databases, pastes           - https://github.com/Ekultek/WhatBreach
 
 # MALWARE
-- fireELF - Fileless Linux Malware Framework          - https://github.com/rek7/fireELF
-- Ustealer - Ubuntu Stealer, Steal Ubuntu Information - https://github.com/atmoner/Ustealer
-- BYOB (Build Your Own Botnet)                        - https://github.com/malwaredllc/byob
-- UBoat - HTTP Botnet Project                         - https://github.com/Souhardya/Uboat
+- fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
+- Ustealer - Ubuntu Stealer, Steal Ubuntu Information   - https://github.com/atmoner/Ustealer
+- BYOB (Build Your Own Botnet)                          - https://github.com/malwaredllc/byob
+- UBoat - HTTP Botnet Project                           - https://github.com/Souhardya/Uboat
 
 # SCANNERS
 - Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
