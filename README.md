@@ -1,5 +1,3 @@
-e# Resource
-- [Resource](#resource)
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
 - [MALWARE](#malware)
@@ -12,6 +10,9 @@ e# Resource
 - [Google Hacking](#google-hacking)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Honey Pots](#honey-pots)
+- [CTF](#ctf)
+- [CTF Tools](#ctf-tools)
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
