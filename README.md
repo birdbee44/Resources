@@ -65,6 +65,7 @@
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 - https://xsses.rocks/sample-page/
+- https://github.com/wish-i-was/femida
 
 # SQL Injection
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
@@ -94,4 +95,16 @@
 - https://ruby-doc.com/docs/ProgrammingRuby/
 - https://www.codecademy.com/learn/learn-ruby
 
+# Honey Pots
+- https://github.com/wish-i-was/femida
+- 
+
+# CTF
+- https://github.com/gabemarshall/microctfs
+
+# CTF Tools
+- https://github.com/lockedbyte/cryptovenom
+- https://github.com/hellman/xortool
+- https://github.com/DominicBreuker/stego-toolkit
+- https://github.com/Acceis/crypto_identifier
 
