@@ -97,7 +97,12 @@
 
 # Honey Pots
 - https://github.com/wish-i-was/femida
-- 
+- https://github.com/cowrie/cowrie
+- https://github.com/foospidy/HoneyPy
+- https://github.com/magisterquis/sshhipot
+- https://github.com/desaster/kippo
+- https://github.com/andrewmichaelsmith/bluepot/
+- https://github.com/mushorg/conpot
 
 # CTF
 - https://github.com/gabemarshall/microctfs
