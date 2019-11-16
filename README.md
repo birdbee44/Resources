@@ -46,3 +46,39 @@
 - CSO               - https://www.csoonline.com
 - BitDefender       - https://labs.bitdefender.com
 - Malwarebytes      - https://blog.malwarebytes.com
+
+# XSS
+- https://www.google.com/about/appsecurity/learning/xss/
+- https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+- https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+- https://xsses.rocks/sample-page/
+
+# SQL Injection
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+- http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
+- https://www.exploit-db.com/papers/13650
+
+# CSRF
+- https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
+- https://trustfoundry.net/cross-site-request-forgery-cheat-sheet/
+
+# Google Hacking
+- https://www.exploit-db.com/google-hacking-database
+- https://securitytrails.com/blog/google-hacking-techniques
+- https://medium.com/infosec-adventures/google-hacking-39599373be7d
+
+
+# Python
+- https://codecademy.com/learn/learn-python
+- https://docs.python-guide.org/intro/learning/
+- https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf
+- https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+
+
+# Ruby
+- http://rubylearning.com/
+- https://www.ruby-lang.org/en/documentation/quickstart/
+- https://ruby-doc.com/docs/ProgrammingRuby/
+- https://www.codecademy.com/learn/learn-ruby
+
+
