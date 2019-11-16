@@ -1,5 +1,5 @@
-# Resouces
-
+# Resource
+https://github.com/UticaCollegeCyberSecurityClub/Resources#sql-injection
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
 - Evilginx2  MITM phishing    - https://github.com/kgretzky/evilginx2
