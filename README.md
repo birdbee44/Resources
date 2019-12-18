@@ -20,14 +20,15 @@
 - HiddenEye                   - https://github.com/DarkSecDevelopers/HiddenEye
 
 # OSINT
-- Mitaka A Browser Extension For OSINT Search       - https://github.com/ninoseki/mitaka
-- DarkScrape OSINT Tool For Scraping Dark Websites  - https://github.com/itsmehacker/DarkScrape
-- Sherlock Find Usernames Across Social Networks    - https://github.com/sherlock-project/sherlock
-- OSINT-SPY Search using OSINT                      - https://github.com/SharadKumar97/OSINT-SPY
-- SpiderFoot OSINT Tool                             - https://github.com/smicallef/spiderfoot
-- KillShot A Penetration Framework                  - https://github.com/bahaabdelwahed/killshot
-- Ethereum recon and exploitation tool              - https://github.com/cleanunicorn/theo
-- Find breached emails, databases, pastes           - https://github.com/Ekultek/WhatBreach
+- Mitaka A Browser Extension For OSINT Search          - https://github.com/ninoseki/mitaka
+- DarkScrape OSINT Tool For Scraping Dark Websites     - https://github.com/itsmehacker/DarkScrape
+- Sherlock Find Usernames Across Social Networks       - https://github.com/sherlock-project/sherlock
+- OSINT-SPY Search using OSINT                         - https://github.com/SharadKumar97/OSINT-SPY
+- SpiderFoot OSINT Tool                                - https://github.com/smicallef/spiderfoot
+- KillShot A Penetration Framework                     - https://github.com/bahaabdelwahed/killshot
+- Ethereum recon and exploitation tool                 - https://github.com/cleanunicorn/theo
+- Find breached emails, databases, pastes              - https://github.com/Ekultek/WhatBreach
+- Xray - A Tool For Recon, Mapping And OSINT Gathering - https://github.com/evilsocket/xray
 
 # MALWARE
 - fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
@@ -44,7 +45,7 @@
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
 - XSpear Powerfull XSS Scanning And Parameter Analysis Tool  - https://github.com/hahwul/XSpear
 - XSSCon: Simple XSS Scanner tool                            - https://github.com/menkrep1337/XSSCon
-- 
+- Corsy - CORS Misconfiguration Scanner                      - https://github.com/s0md3v/Corsy
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
@@ -67,6 +68,11 @@
 - https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 - https://xsses.rocks/sample-page/
 - https://github.com/wish-i-was/femida
+
+# SQL Injection Tools
+- SQLMap                                      - https://github.com/sqlmapproject/sqlmap
+- jSQL Injection is a Java application        - https://github.com/ron190/jsql-injection
+- Blisqy - Exploit Time-based blind-SQL       - https://github.com/JohnTroony/Blisqy
 
 # SQL Injection
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
