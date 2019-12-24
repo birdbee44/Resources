@@ -70,6 +70,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - CSO               - https://www.csoonline.com
 - BitDefender       - https://labs.bitdefender.com
 - Malwarebytes      - https://blog.malwarebytes.com
+- Netsec            - https://reddit.com/r/netsec
 
 # XSS
 - https://www.google.com/about/appsecurity/learning/xss/
