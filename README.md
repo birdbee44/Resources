@@ -1,7 +1,7 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
 - [MALWARE](#malware)
-- [MALWARE SAMPLES](#malware samples)
+- [MALWARE SAMPLES](#malware-samples)
 - [SCANNERS](#scanners)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
