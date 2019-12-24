@@ -1,6 +1,7 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
 - [MALWARE](#malware)
+- [Malware Samples](#malware samples)
 - [SCANNERS](#scanners)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
@@ -35,6 +36,14 @@
 - Ustealer - Ubuntu Stealer, Steal Ubuntu Information   - https://github.com/atmoner/Ustealer
 - BYOB (Build Your Own Botnet)                          - https://github.com/malwaredllc/byob
 - UBoat - HTTP Botnet Project                           - https://github.com/Souhardya/Uboat
+
+
+# Malware Samples 
+NOTE: The ones with * after the links are ones that are vetted. If you use your uc email and tell them your a cyber student, they wil mostly likely give you access. 
+
+- Hybrid analysis - https://www.hybrid-analysis.com
+- VirusShare      - https://virusshare.com/
+- VirusTotal      - https://www.virustotal.com/
 
 # SCANNERS
 - Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
