@@ -14,6 +14,8 @@
 - [Honey Pots](#honey-pots)
 - [CTF](#ctf)
 - [CTF Tools](#ctf-tools)
+- [Cryptocurrenc](#ctf-tools)
+- [Tor](#tor)
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
@@ -46,6 +48,10 @@
 - Stellar   -  https://www.stellar.org/
 - Mining    -  https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
 
+# Tor
+- Tor's web site - https://www.torproject.org/
+- Dark web sites - https://dark.fail/#Philosophy
+- How tor works  - https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/
 
 # BlockChain Analysis
 - Wallet Explorer - https://www.walletexplorer.com
