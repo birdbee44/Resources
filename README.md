@@ -37,12 +37,26 @@
 - BYOB (Build Your Own Botnet)                          - https://github.com/malwaredllc/byob
 - UBoat - HTTP Botnet Project                           - https://github.com/Souhardya/Uboat
 
+# Cryptocurrency 
+- Bitcoin   -  https://www.bitcoin.com/
+- Monero    -  https://www.getmonero.org/
+- Zcash     -  https://z.cash/
+- Ethereum  -  https://ethereum.org/
+- RavenCoin -  https://ravencoin.org/
+- Stellar   -  https://www.stellar.org/
+- Mining    -  https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+
+
+# BlockChain Analysis
+- Wallet Explorer - https://www.walletexplorer.com
+- C-Hound         - https://www.c-hound.ai/
+- BlockChain      - https://www.blockchain.com/
 
 # Malware Samples 
 NOTE: The ones with * after the links are ones that are vetted. If you use your uc email and tell them your a cyber student, they wil mostly likely give you access. 
 
 - Hybrid analysis - https://www.hybrid-analysis.com
-- VirusShare      - https://virusshare.com/
+- VirusShare      - https://virusshare.com*
 - VirusTotal      - https://www.virustotal.com/
 
 # SCANNERS
