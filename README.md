@@ -14,7 +14,7 @@
 - [Honey Pots](#honey-pots)
 - [CTF](#ctf)
 - [CTF Tools](#ctf-tools)
-- [Cryptocurrenc](#ctf-tools)
+- [Cryptocurreny](#ctf-tools)
 - [Tor](#tor)
 
 # PHISHING TOOLS
