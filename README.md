@@ -39,6 +39,14 @@
 - BYOB (Build Your Own Botnet)                          - https://github.com/malwaredllc/byob
 - UBoat - HTTP Botnet Project                           - https://github.com/Souhardya/Uboat
 
+
+# Hardware
+- Posion tap - https://samy.pl/poisontap/
+- Rubber ducky on steroids - https://github.com/whid-injector/WHID
+- PI hole - https://github.com/pi-hole/pi-hole
+- Homemade LAN turtle - https://github.com/CuPcakeN1njA/Int3rcept0r
+- Rasp pi AI Security camera - https://medium.com/berrynet/diy-your-ai-home-security-camera-with-raspberry-pi-and-open-source-software-10d4364df20f
+- 
 # Cryptocurrency 
 - Bitcoin   -  https://www.bitcoin.com/
 - Monero    -  https://www.getmonero.org/
