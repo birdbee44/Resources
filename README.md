@@ -17,6 +17,13 @@
 - [Cryptocurrency](#cryptocurrency--blockchains )
 - [Tor](#tor)
 - [Threat Maps](#threat-maps)
+- [Encryption](#encryption)
+
+# Encryption
+- https://www.openpgp.org/
+- https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
+- https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
+- 
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
@@ -59,7 +66,8 @@
 - 51% attack - https://github.com/cburchert/shitcoin\
 - Play with blockchain - https://github.com/DutchGraa/crackcoin
 - Monero Info - https://www.monero.how/monero-infographic
-
+- How Blockchain works - http://blockchain.mit.edu/how-blockchain-works
+- 
 # Tor
 - Tor's web site - https://www.torproject.org/
 - Dark web sites - https://dark.fail/#Philosophy
