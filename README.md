@@ -23,6 +23,7 @@
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
 - https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
+- https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
 - 
 
 # PHISHING TOOLS
@@ -67,7 +68,8 @@
 - Play with blockchain - https://github.com/DutchGraa/crackcoin
 - Monero Info - https://www.monero.how/monero-infographic
 - How Blockchain works - http://blockchain.mit.edu/how-blockchain-works
-- 
+- http://list.zju.edu.cn/kaibu/netsec/lec04-blockchain.ppt
+
 # Tor
 - Tor's web site - https://www.torproject.org/
 - Dark web sites - https://dark.fail/#Philosophy
@@ -172,6 +174,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 # CTF
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
+
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
 - https://github.com/hellman/xortool
