@@ -58,6 +58,7 @@
 - Mining    -  https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
 - 51% attack - https://github.com/cburchert/shitcoin\
 - Play with blockchain - https://github.com/DutchGraa/crackcoin
+- Monero Info - https://www.monero.how/monero-infographic
 
 # Tor
 - Tor's web site - https://www.torproject.org/
