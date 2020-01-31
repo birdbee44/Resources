@@ -101,6 +101,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - BitDefender       - https://labs.bitdefender.com
 - Malwarebytes      - https://blog.malwarebytes.com
 - Netsec            - https://reddit.com/r/netsec
+- CheckPoint        - https://research.checkpoint.com/
 
 # XSS
 - https://www.google.com/about/appsecurity/learning/xss/
