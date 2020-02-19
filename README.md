@@ -41,6 +41,9 @@
 - Ethereum recon and exploitation tool                 - https://github.com/cleanunicorn/theo
 - Find breached emails, databases, pastes              - https://github.com/Ekultek/WhatBreach
 - Xray - A Tool For Recon, Mapping And OSINT Gathering - https://github.com/evilsocket/xray
+- OSINT framework                                      - https://osintframework.com/
+- Discover                                             - https://github.com/leebaird/discover
+- ReconCobra                                           - https://github.com/haroonawanofficial/ReconCobra
 
 # MALWARE
 - fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
