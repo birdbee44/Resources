@@ -45,6 +45,10 @@
 - Discover                                             - https://github.com/leebaird/discover
 - ReconCobra                                           - https://github.com/haroonawanofficial/ReconCobra
 
+# Windows SubSystem
+- https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- https://docs.microsoft.com/en-us/windows/wsl/faq
+
 # MALWARE
 - fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
 - Ustealer - Ubuntu Stealer, Steal Ubuntu Information   - https://github.com/atmoner/Ustealer
