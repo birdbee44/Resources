@@ -21,6 +21,8 @@
 - [Encryption](#encryption)
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+- https://github.com/PierreGe/RL-movie-recommender
+
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
@@ -78,8 +80,10 @@
 - 51% attack - https://github.com/cburchert/shitcoin\
 - Play with blockchain - https://github.com/DutchGraa/crackcoin
 - Monero Info - https://www.monero.how/monero-infographic
+- Simulated Blockchains for Machine Learning Traceability and Transaction Values in the Monero - https://arxiv.org/abs/2001.03937
 - How Blockchain works - http://blockchain.mit.edu/how-blockchain-works
 - http://list.zju.edu.cn/kaibu/netsec/lec04-blockchain.ppt
+
 
 # Tor
 - Tor's web site - https://www.torproject.org/
