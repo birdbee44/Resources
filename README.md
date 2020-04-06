@@ -15,17 +15,19 @@
 - [CTF](#ctf)
 - [CTF Tools](#ctf-tools)
 - [Cryptocurrency](#cryptocurrency--blockchains )
+- [MachineLearning walkthrough](#machine-Learning)
 - [Tor](#tor)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
-
+# Machine-Learning
+- https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
 - https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
 - https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
 - 
-
+# MachineLearning-walkthrough
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
 - Evilginx2  MITM phishing    - https://github.com/kgretzky/evilginx2
