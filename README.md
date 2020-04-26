@@ -21,9 +21,11 @@
 - [Tor](#tor)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 - https://github.com/PierreGe/RL-movie-recommender
+- https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
 
 # Encryption
 - https://www.openpgp.org/
