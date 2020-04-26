@@ -103,18 +103,19 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - VirusShare      - https://virusshare.com*
 - VirusTotal      - https://www.virustotal.com/
 
-# SCANNERS
-- Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
-- Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
-- RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
-- Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
-- 
 # Threat Maps
 - https://threatmap.checkpoint.com/
 - https://cybermap.kaspersky.com/
 - https://www.fireeye.com/cyber-map/threat-map.html
 - https://threatmap.fortiguard.com/
 - https://map.lookingglasscyber.com/
+
+# SCANNERS
+- Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
+- Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
+- RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
+- Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
+-
 
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
