@@ -33,9 +33,6 @@
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 
-# MachineLearning-walkthrough
-- https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
-
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
 - Evilginx2  MITM phishing    - https://github.com/kgretzky/evilginx2
