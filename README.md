@@ -129,7 +129,17 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter/
 - https://portswigger.net/daily-swig/bug-bounty-radar-the-latest-bug-bounty-programs-for-march-2020
 - https://medium.com/@muff1n/how-to-become-a-bug-bounty-hunter-dffce2bb333c
-- 
+- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
+- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug/
+- https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0
+- https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/
+- https://blog.intigriti.com/2020/02/24/twitter-recap-1-bug-bounty-tips-by-the-intigriti-community/#tools_5
+- https://bugbountyguide.com/
+- https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
+- https://research.securitum.com/xss-in-amp4email-dom-clobbering/
+- https://medium.com/@vignesh4303/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248
+- https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
+- https://pentester.land/list-of-bug-bounty-writeups.html
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
