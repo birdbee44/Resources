@@ -5,7 +5,7 @@
 - [MachineLearning walkthrough](#machine-Learning)
 - [MALWARE SAMPLES](#malware-samples)
 - [SCANNERS](#scanners)
-- [Bug Bounty](#bugbounty)
+- [Bug Bounty](#bug-bounty)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
 - [XSS](#xss)
