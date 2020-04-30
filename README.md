@@ -2,7 +2,7 @@
 - [OSINT](#osint)
 - [APTS](#apt)
 - [MALWARE](#malware)
-- [MachineLearning walkthrough](#machine-Learning)
+- [Machine Learning](#machine-Learning)
 - [MALWARE SAMPLES](#malware-samples)
 - [SCANNERS](#scanners)
 - [Bug Bounty](#bug-bounty)
@@ -26,6 +26,7 @@
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 - https://github.com/PierreGe/RL-movie-recommender
 - https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
+- https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
 
 # Encryption
 - https://www.openpgp.org/
