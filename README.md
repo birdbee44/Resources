@@ -194,13 +194,14 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://docs.python-guide.org/intro/learning/
 - https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf
 - https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
-
+- https://refactoring.guru/design-patterns/
 
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
 - https://ruby-doc.com/docs/ProgrammingRuby/
 - https://www.codecademy.com/learn/learn-ruby
+- https://refactoring.guru/design-patterns/
 
 # Honey Pots
 - https://github.com/wish-i-was/femida
