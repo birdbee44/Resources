@@ -147,6 +147,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@vignesh4303/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248
 - https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
 - https://pentester.land/list-of-bug-bounty-writeups.html
+- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
