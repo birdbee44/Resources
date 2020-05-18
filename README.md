@@ -130,7 +130,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - XSpear Powerfull XSS Scanning And Parameter Analysis Tool  - https://github.com/hahwul/XSpear
 - XSSCon: Simple XSS Scanner tool                            - https://github.com/menkrep1337/XSSCon
 - Corsy - CORS Misconfiguration Scanner                      - https://github.com/s0md3v/Corsy
-
+- https://fsec404.github.io/blog/HTTP-parameter-pollution/
 # Bug Bounty
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
 - https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter/
