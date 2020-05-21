@@ -132,6 +132,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Corsy - CORS Misconfiguration Scanner                      - https://github.com/s0md3v/Corsy
 - https://fsec404.github.io/blog/HTTP-parameter-pollution/
 - https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
+- https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn
 
 # Bug Bounty
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
