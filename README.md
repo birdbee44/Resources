@@ -131,6 +131,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - XSSCon: Simple XSS Scanner tool                            - https://github.com/menkrep1337/XSSCon
 - Corsy - CORS Misconfiguration Scanner                      - https://github.com/s0md3v/Corsy
 - https://fsec404.github.io/blog/HTTP-parameter-pollution/
+- https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
+
 # Bug Bounty
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
 - https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter/
