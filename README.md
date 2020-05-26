@@ -4,6 +4,7 @@
 - [MALWARE](#malware)
 - [Machine Learning](#machine-Learning)
 - [MALWARE SAMPLES](#malware-samples)
+- [CHEATSHEETS](#cheatsheets)
 - [SCANNERS](#scanners)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
@@ -29,6 +30,9 @@
 - https://github.com/PierreGe/RL-movie-recommender
 - https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
 - https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
+
+# Cheatsheets
+- https://cheatography.com/albertx/cheat-sheets/openssl/
 
 # Encryption
 - https://www.openpgp.org/
