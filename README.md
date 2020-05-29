@@ -226,7 +226,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 # CTF
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
-
+- https://laconicwolf.com/2018/06/11/cryptopals-challenge-5-repeating-key-xor-encryption/
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
 - https://github.com/hellman/xortool
