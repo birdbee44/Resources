@@ -206,6 +206,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf
 - https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 - https://refactoring.guru/design-patterns/
+- https://alysivji.github.io/simple-plugin-system.html
 
 # Ruby
 - http://rubylearning.com/
