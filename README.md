@@ -208,7 +208,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 - https://refactoring.guru/design-patterns/
 - https://alysivji.github.io/simple-plugin-system.html
-
+- https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures/
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
@@ -229,6 +229,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
 - https://laconicwolf.com/2018/06/11/cryptopals-challenge-5-repeating-key-xor-encryption/
+
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
 - https://github.com/hellman/xortool
