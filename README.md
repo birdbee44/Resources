@@ -155,6 +155,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
 - https://pentester.land/list-of-bug-bounty-writeups.html
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+- https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
