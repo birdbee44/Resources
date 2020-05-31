@@ -209,6 +209,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://refactoring.guru/design-patterns/
 - https://alysivji.github.io/simple-plugin-system.html
 - https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures/
+- https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher/
+
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
