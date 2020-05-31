@@ -64,9 +64,11 @@
 - plot a Twitter user’s activity onto a map            - http://geosocialfootprint.com/
 - View  DNS                                            - https://viewdns.info/
 - Twitter trend map                                    - https://www.trendsmap.com/
+
 # Windows SubSystem
 - https://docs.microsoft.com/en-us/windows/wsl/install-win10
 - https://docs.microsoft.com/en-us/windows/wsl/faq
+- https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 
 # MALWARE
 - fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
