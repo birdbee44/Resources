@@ -30,6 +30,7 @@
 - https://github.com/PierreGe/RL-movie-recommender
 - https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
 - https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
+- https://github.com/josephmisiti/awesome-machine-learning
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
@@ -219,6 +220,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://ruby-doc.com/docs/ProgrammingRuby/
 - https://www.codecademy.com/learn/learn-ruby
 - https://refactoring.guru/design-patterns/
+- https://github.com/arbox/machine-learning-with-ruby
 
 # Honey Pots
 - https://github.com/wish-i-was/femida
