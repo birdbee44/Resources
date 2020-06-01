@@ -20,10 +20,14 @@
 - [CTF Tools](#ctf-tools)
 - [Cryptocurrency](#cryptocurrency--blockchains )
 - [Tor](#tor)
+- [Deep Learning](#deeplearning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
 # SSH 
 - https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
+# deep Learning
+- https://deej-ai.online/
+- https://deepdreamgenerator.com/
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
