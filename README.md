@@ -20,7 +20,7 @@
 - [CTF Tools](#ctf-tools)
 - [Cryptocurrency](#cryptocurrency--blockchains )
 - [Tor](#tor)
-- [Deep Learning](#deeplearning)
+- [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
 # SSH 
