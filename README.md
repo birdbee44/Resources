@@ -25,7 +25,7 @@
 - [Encryption](#encryption)
 # SSH 
 - https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
-# deep Learning
+# Deep Learning
 - https://deej-ai.online/
 - https://deepdreamgenerator.com/
 
