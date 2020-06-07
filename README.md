@@ -196,6 +196,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@zonduu/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
 - https://www.bad5ect0r.sh/index.php/2020/05/17/stored-xss-password-disclosure/
 - https://github.com/pry0cc/axiom
+- https://challenge.intigriti.io/
+- 
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
