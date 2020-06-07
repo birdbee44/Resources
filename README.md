@@ -192,7 +192,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
-
+- https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
+- 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
