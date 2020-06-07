@@ -29,6 +29,8 @@
 # Deep Learning
 - https://deej-ai.online/
 - https://deepdreamgenerator.com/
+- https://github.com/arunponnusamy/object-detection-opencv
+
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 # Machine-Learning
