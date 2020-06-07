@@ -36,6 +36,7 @@
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
+
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 - https://github.com/PierreGe/RL-movie-recommender
@@ -46,7 +47,8 @@
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
-
+- http://cs.lewisu.edu/~klumpra/camssem2015/nmapcheatsheet1.pdf
+- 
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
