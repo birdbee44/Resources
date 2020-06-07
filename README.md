@@ -36,6 +36,7 @@
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
+- https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
