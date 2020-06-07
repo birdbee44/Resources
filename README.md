@@ -191,6 +191,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://pentester.land/list-of-bug-bounty-writeups.html
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
+- https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
