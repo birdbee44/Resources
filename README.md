@@ -198,6 +198,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/pry0cc/axiom
 - https://challenge.intigriti.io/
 - https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/
+- https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/
+- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
