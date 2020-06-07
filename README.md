@@ -1,6 +1,7 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
 - [APTS](#apt)
+- [Reverse Engineering](#reverse_engineering)
 - [MALWARE](#malware)
 - [Machine Learning](#machine-Learning)
 - [MALWARE SAMPLES](#malware-samples)
@@ -28,7 +29,8 @@
 # Deep Learning
 - https://deej-ai.online/
 - https://deepdreamgenerator.com/
-
+# Reverse_Engineering
+- https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 - https://github.com/PierreGe/RL-movie-recommender
