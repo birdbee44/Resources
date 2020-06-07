@@ -201,6 +201,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/
 - https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
 - http://blog.oath.ninja/basic-bug-bounty-faq/
+- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
