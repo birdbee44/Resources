@@ -7,6 +7,7 @@
 - [MALWARE SAMPLES](#malware-samples)
 - [CHEATSHEETS](#cheatsheets)
 - [SCANNERS](#scanners)
+- [Fuzzing](#fuzzing)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
@@ -24,6 +25,9 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+
+# Fuzzing 
+- https://rhinosecuritylabs.com/research/fuzzing-left4dead-2-with-fuzzing-framework/
 
 # SSH 
 - https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
