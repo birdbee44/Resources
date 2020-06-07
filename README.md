@@ -219,6 +219,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://alysivji.github.io/simple-plugin-system.html
 - https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures/
 - https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher/
+- https://docs.python.org/3/tutorial/datastructures.html
+- https://docs.python.org/2/tutorial/classes.html
 
 # Ruby
 - http://rubylearning.com/
