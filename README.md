@@ -52,7 +52,8 @@
 - https://www.cyberciti.biz/howto/question/general/compress-file-unix-linux-cheat-sheet.php
 - https://tmuxcheatsheet.com/
 - http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
-- 
+- http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
