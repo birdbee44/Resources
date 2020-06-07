@@ -193,6 +193,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 - https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
+- https://medium.com/@zonduu/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
 - 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
