@@ -55,7 +55,8 @@
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 - https://www.aelius.com/njh/subnet_sheet.html
 - https://medium.com/hacker-toolbelt/wireshark-filters-cheat-sheet-eacdc438969c
-- 
+- https://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf
+
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
