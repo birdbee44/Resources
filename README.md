@@ -53,6 +53,7 @@
 - https://tmuxcheatsheet.com/
 - http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+- https://www.aelius.com/njh/subnet_sheet.html
 
 # Encryption
 - https://www.openpgp.org/
