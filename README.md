@@ -45,6 +45,7 @@
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
+- https://devhints.io/curl
 
 # Encryption
 - https://www.openpgp.org/
