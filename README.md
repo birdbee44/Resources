@@ -60,6 +60,8 @@
 - https://codeyarns.com/2016/01/22/wget-cheatsheet/
 - https://cheatsheet.dennyzhang.com/cheatsheet-ssh-a4
 - https://gto76.github.io/linux-cheatsheet/
+- https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf
+
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
