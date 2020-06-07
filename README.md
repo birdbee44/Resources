@@ -202,6 +202,10 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
 - http://blog.oath.ninja/basic-bug-bounty-faq/
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug/
+
+
+
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
