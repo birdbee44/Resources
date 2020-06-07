@@ -48,6 +48,7 @@
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
 - http://cs.lewisu.edu/~klumpra/camssem2015/nmapcheatsheet1.pdf
+- https://highon.coffee/blog/nmap-cheat-sheet/
 - 
 # Encryption
 - https://www.openpgp.org/
