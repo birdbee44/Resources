@@ -49,6 +49,7 @@
 - https://devhints.io/curl
 - http://cs.lewisu.edu/~klumpra/camssem2015/nmapcheatsheet1.pdf
 - https://highon.coffee/blog/nmap-cheat-sheet/
+- https://www.cyberciti.biz/howto/question/general/compress-file-unix-linux-cheat-sheet.php
 - 
 # Encryption
 - https://www.openpgp.org/
