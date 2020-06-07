@@ -56,7 +56,7 @@
 - https://www.aelius.com/njh/subnet_sheet.html
 - https://medium.com/hacker-toolbelt/wireshark-filters-cheat-sheet-eacdc438969c
 - https://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf
-
+- https://pequalsnp-team.github.io/cheatsheet/steganography-101
 # Encryption
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
