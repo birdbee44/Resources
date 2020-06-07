@@ -194,6 +194,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 - https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
 - https://medium.com/@zonduu/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
+- https://www.bad5ect0r.sh/index.php/2020/05/17/stored-xss-password-disclosure/
 - 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
