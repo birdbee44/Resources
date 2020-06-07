@@ -51,6 +51,7 @@
 - https://highon.coffee/blog/nmap-cheat-sheet/
 - https://www.cyberciti.biz/howto/question/general/compress-file-unix-linux-cheat-sheet.php
 - https://tmuxcheatsheet.com/
+- http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
 - 
 # Encryption
 - https://www.openpgp.org/
