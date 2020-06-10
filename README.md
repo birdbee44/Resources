@@ -53,7 +53,7 @@
 - https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
 - https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
 - https://github.com/josephmisiti/awesome-machine-learning
-
+- https://aryamccarthy.github.io/malmi2016dopelearning/
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
