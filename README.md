@@ -37,10 +37,12 @@
 - https://deepdreamgenerator.com/
 - https://github.com/arunponnusamy/object-detection-opencv
 - https://github.com/curiousily/Deep-Learning-For-Hackers
+- http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 - https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
+
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
