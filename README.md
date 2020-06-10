@@ -54,6 +54,8 @@
 - https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://aryamccarthy.github.io/malmi2016dopelearning/
+- https://genius.com/posts/63-Introducing-rapmetricstm-the-birth-of-statistical-analysis-of-rap-lyrics
+
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
@@ -78,6 +80,7 @@
 - https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
 - https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
+
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 
