@@ -38,6 +38,7 @@
 - https://github.com/arunponnusamy/object-detection-opencv
 - https://github.com/curiousily/Deep-Learning-For-Hackers
 - http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
+- https://playground.tensorflow.org/
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
