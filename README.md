@@ -40,6 +40,7 @@
 - http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 - https://playground.tensorflow.org/
 - https://towardsdatascience.com/understanding-neural-networks-19020b758230
+- http://deeplearning.net/tutorial/gettingstarted.html
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
