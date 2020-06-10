@@ -72,7 +72,7 @@
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
 - https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
 - https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
-
+- https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 
