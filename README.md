@@ -7,6 +7,7 @@
 - [MALWARE SAMPLES](#malware-samples)
 - [CHEATSHEETS](#cheatsheets)
 - [SCANNERS](#scanners)
+- [Kali Linux](#kali-linux)
 - [Fuzzing](#fuzzing)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
@@ -25,6 +26,8 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+# Kali Linux
+- https://ourcodeworld.com/articles/read/961/how-to-solve-kali-linux-apt-get-install-e-unable-to-locate-package-checkinstall
 
 # Fuzzing 
 - https://rhinosecuritylabs.com/research/fuzzing-left4dead-2-with-fuzzing-framework/
