@@ -270,6 +270,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher/
 - https://docs.python.org/3/tutorial/datastructures.html
 - https://docs.python.org/2/tutorial/classes.html
+- https://en.ogunal.com/data-collection-with-python-on-linux-system/
 
 # Ruby
 - http://rubylearning.com/
