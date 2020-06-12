@@ -114,6 +114,7 @@
 - https://docs.microsoft.com/en-us/windows/wsl/faq
 - https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 - https://wiki.ubuntu.com/WSL
+- https://github.com/sirredbeard/Awesome-WSL
 
 # MALWARE
 - fireELF - Fileless Linux Malware Framework            - https://github.com/rek7/fireELF
