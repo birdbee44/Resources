@@ -282,6 +282,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3
 - https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3
 - https://www.pitt.edu/~naraehan/python3/split_join.html
+- https://medium.com/swlh/list-comprehensions-in-python-3-for-beginners-8c2b18966d93
 
 # Ruby
 - http://rubylearning.com/
