@@ -281,6 +281,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://wiki.python.org/moin/ForLoop
 - https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3
 - https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3
+- https://www.pitt.edu/~naraehan/python3/split_join.html
+
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
