@@ -279,7 +279,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://docs.python.org/2/tutorial/classes.html
 - https://en.ogunal.com/data-collection-with-python-on-linux-system/
 - https://wiki.python.org/moin/ForLoop
-
+- https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3
+- 
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
