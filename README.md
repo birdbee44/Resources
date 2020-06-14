@@ -146,7 +146,7 @@
 - Simulated Blockchains for Machine Learning Traceability and Transaction Values in the Monero - https://arxiv.org/abs/2001.03937
 - How Blockchain works - http://blockchain.mit.edu/how-blockchain-works
 - http://list.zju.edu.cn/kaibu/netsec/lec04-blockchain.ppt
-
+- https://www.exablue.de/en/blog/2020-06-11-malware-on-the-blockchain.html
 
 # Tor
 - Tor's web site - https://www.torproject.org/
