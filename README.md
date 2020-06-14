@@ -291,7 +291,15 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.codecademy.com/learn/learn-ruby
 - https://refactoring.guru/design-patterns/
 - https://github.com/arbox/machine-learning-with-ruby
-
+- https://ruby.github.io/rake/doc/rakefile_rdoc.html
+- https://medium.com/@jaeger.rob/a-simple-ruby-rakefile-for-tests-149a7b783c52
+- http://sinatrarb.com/
+- https://thoughtbot.com/blog/lets-build-a-sinatra
+# C++
+- https://www.cplusplus.com/
+- https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
+- https://www.cs.bu.edu/teaching/cpp/writing-makefiles/'
+- 
 # Honey Pots
 - https://github.com/wish-i-was/femida
 - https://github.com/cowrie/cowrie
