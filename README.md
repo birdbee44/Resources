@@ -46,6 +46,7 @@
 - http://deeplearning.net/tutorial/gettingstarted.html
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://hackernoon.com/deep-learning-chatbot-everything-you-need-to-know-r11jm30bc
+- https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
