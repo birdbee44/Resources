@@ -45,7 +45,7 @@
 - https://towardsdatascience.com/understanding-neural-networks-19020b758230
 - http://deeplearning.net/tutorial/gettingstarted.html
 - https://github.com/ChristosChristofidis/awesome-deep-learning
-
+- https://hackernoon.com/deep-learning-chatbot-everything-you-need-to-know-r11jm30bc
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
