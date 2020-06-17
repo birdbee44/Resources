@@ -65,7 +65,8 @@
 - https://towardsdatascience.com/trolls-and-bots-are-disrupting-social-media-heres-how-ai-can-stop-them-d9b969336a06
 - http://sitn.hms.harvard.edu/flash/2016/how-tay-machine-learned-her-way-to-become-a-twitter-troll/
 - https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
--
+- https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
