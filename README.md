@@ -62,6 +62,7 @@
 - https://genius.com/posts/63-Introducing-rapmetricstm-the-birth-of-statistical-analysis-of-rap-lyrics
 - https://medium.com/swlh/build-spotify-playlist-using-machine-learning-45352975d2ee
 - https://towardsdatascience.com/trolls-and-bots-are-disrupting-social-media-heres-how-ai-can-stop-them-d9b969336a06
+- http://sitn.hms.harvard.edu/flash/2016/how-tay-machine-learned-her-way-to-become-a-twitter-troll/
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
