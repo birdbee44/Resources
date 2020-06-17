@@ -66,6 +66,7 @@
 - http://sitn.hms.harvard.edu/flash/2016/how-tay-machine-learned-her-way-to-become-a-twitter-troll/
 - https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+- https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
