@@ -305,6 +305,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@jaeger.rob/a-simple-ruby-rakefile-for-tests-149a7b783c52
 - http://sinatrarb.com/
 - https://thoughtbot.com/blog/lets-build-a-sinatra
+- https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/
 # C++
 - https://www.cplusplus.com/
 - https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
