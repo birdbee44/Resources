@@ -8,6 +8,7 @@
 - [CHEATSHEETS](#cheatsheets)
 - [SCANNERS](#scanners)
 - [Kali Linux](#kali-linux)
+- [Linux Guide](#linux-guide)
 - [Fuzzing](#fuzzing)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
@@ -26,6 +27,8 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+# Linux Guide
+- https://github.com/UticaCollegeCyberSecurityClub/LinuxGuide
 # Kali Linux
 - https://ourcodeworld.com/articles/read/961/how-to-solve-kali-linux-apt-get-install-e-unable-to-locate-package-checkinstall
 
