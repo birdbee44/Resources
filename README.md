@@ -294,6 +294,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.pitt.edu/~naraehan/python3/split_join.html
 - https://medium.com/swlh/list-comprehensions-in-python-3-for-beginners-8c2b18966d93
 - https://www.guidodiepen.nl/2019/02/implementing-a-simple-plugin-framework-in-python/
+- https://python-reference.readthedocs.io/en/latest/docs/functions/__import__.html
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
