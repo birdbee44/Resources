@@ -293,7 +293,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3
 - https://www.pitt.edu/~naraehan/python3/split_join.html
 - https://medium.com/swlh/list-comprehensions-in-python-3-for-beginners-8c2b18966d93
-
+- https://www.guidodiepen.nl/2019/02/implementing-a-simple-plugin-framework-in-python/
 # Ruby
 - http://rubylearning.com/
 - https://www.ruby-lang.org/en/documentation/quickstart/
