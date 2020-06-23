@@ -51,6 +51,8 @@
 - https://hackernoon.com/deep-learning-chatbot-everything-you-need-to-know-r11jm30bc
 - https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d
 - https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a
+- https://towardsdatascience.com/deep-learning-and-momentum-investing-2273e8db5b86
+
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 - https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
