@@ -52,7 +52,7 @@
 - https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d
 - https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a
 - https://towardsdatascience.com/deep-learning-and-momentum-investing-2273e8db5b86
-
+- https://towardsdatascience.com/machine-learning-for-sports-betting-not-a-basic-classification-problem-b42ae4900782
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 - https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
