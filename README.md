@@ -10,6 +10,7 @@
 - [Kali Linux](#kali-linux)
 - [Linux Guide](#linux-guide)
 - [Fuzzing](#fuzzing)
+- [Vulnerable VMs](#vuln-vms)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
@@ -27,6 +28,9 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+
+# Vulnerable VMs
+- https://github.com/cliffe/SecGen
 # Linux Guide
 - https://github.com/UticaCollegeCyberSecurityClub/LinuxGuide
 # Kali Linux
