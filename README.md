@@ -58,7 +58,7 @@
 - https://towardsdatascience.com/deep-learning-and-momentum-investing-2273e8db5b86
 - https://towardsdatascience.com/machine-learning-for-sports-betting-not-a-basic-classification-problem-b42ae4900782
 - https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
-
+- https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
 - https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
