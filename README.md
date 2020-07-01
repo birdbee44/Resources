@@ -31,16 +31,18 @@
 
 # Vulnerable VMs
 - https://github.com/cliffe/SecGen
+
 # Linux Guide
 - https://github.com/UticaCollegeCyberSecurityClub/LinuxGuide
+
 # Kali Linux
 - https://ourcodeworld.com/articles/read/961/how-to-solve-kali-linux-apt-get-install-e-unable-to-locate-package-checkinstall
 
 # Fuzzing 
-- https://rhinosecuritylabs.com/research/fuzzing-left4dead-2-with-fuzzing-framework/
+- https://rhinosecuritylabs.com/research/fuzzing-left4dead-2-with-fuzzing-framework
 
 # SSH 
-- https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters/
+- https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters
 
 # Deep Learning
 - https://deej-ai.online/
@@ -59,10 +61,12 @@
 - https://towardsdatascience.com/machine-learning-for-sports-betting-not-a-basic-classification-problem-b42ae4900782
 - https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
 - https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d
+
 # Reverse_Engineering
-- https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk/
-- https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux/
+- https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk
+- https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux
 - https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed
+- https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
@@ -293,36 +297,36 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 - https://refactoring.guru/design-patterns/
 - https://alysivji.github.io/simple-plugin-system.html
-- https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures/
-- https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher/
+- https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures
+- https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher
 - https://docs.python.org/3/tutorial/datastructures.html
 - https://docs.python.org/2/tutorial/classes.html
-- https://en.ogunal.com/data-collection-with-python-on-linux-system/
+- https://en.ogunal.com/data-collection-with-python-on-linux-system
 - https://wiki.python.org/moin/ForLoop
 - https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3
 - https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3
 - https://www.pitt.edu/~naraehan/python3/split_join.html
 - https://medium.com/swlh/list-comprehensions-in-python-3-for-beginners-8c2b18966d93
-- https://www.guidodiepen.nl/2019/02/implementing-a-simple-plugin-framework-in-python/
+- https://www.guidodiepen.nl/2019/02/implementing-a-simple-plugin-framework-in-python
 - https://python-reference.readthedocs.io/en/latest/docs/functions/__import__.html
 - https://dev.to/serhatteker/how-to-upgrade-to-python-3-7-on-ubuntu-18-04-18-10-5hab
 - https://archive.org/details/comp3321 ( requested from NSA by Freedom of Information Act- python courses) 
 # Ruby
-- http://rubylearning.com/
-- https://www.ruby-lang.org/en/documentation/quickstart/
-- https://ruby-doc.com/docs/ProgrammingRuby/
+- http://rubylearning.com
+- https://www.ruby-lang.org/en/documentation/quickstart
+- https://ruby-doc.com/docs/ProgrammingRuby
 - https://www.codecademy.com/learn/learn-ruby
-- https://refactoring.guru/design-patterns/
+- https://refactoring.guru/design-patterns
 - https://github.com/arbox/machine-learning-with-ruby
 - https://ruby.github.io/rake/doc/rakefile_rdoc.html
 - https://medium.com/@jaeger.rob/a-simple-ruby-rakefile-for-tests-149a7b783c52
-- http://sinatrarb.com/
+- http://sinatrarb.com
 - https://thoughtbot.com/blog/lets-build-a-sinatra
-- https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/
+- https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04
 # C++
 - https://www.cplusplus.com/
 - https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
-- https://www.cs.bu.edu/teaching/cpp/writing-makefiles/'
+- https://www.cs.bu.edu/teaching/cpp/writing-makefiles
 - 
 # Honey Pots
 - https://github.com/wish-i-was/femida
@@ -330,15 +334,15 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/foospidy/HoneyPy
 - https://github.com/magisterquis/sshhipot
 - https://github.com/desaster/kippo
-- https://github.com/andrewmichaelsmith/bluepot/
+- https://github.com/andrewmichaelsmith/bluepot
 - https://github.com/mushorg/conpot
 
 # CTF
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
-- https://laconicwolf.com/2018/06/11/cryptopals-challenge-5-repeating-key-xor-encryption/
+- https://laconicwolf.com/2018/06/11/cryptopals-challenge-5-repeating-key-xor-encryption
 - https://truedigitalsecurity.com/blog/csaw-2015-crypto-500-bricks-of-gold-writeup
-- https://www.tunnelsup.com/helpful-linux-commands-for-ctfs/
+- https://www.tunnelsup.com/helpful-linux-commands-for-ctfs
 
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
