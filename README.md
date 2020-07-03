@@ -10,6 +10,7 @@
 - [Kali Linux](#kali-linux)
 - [Linux Guide](#linux-guide)
 - [Fuzzing](#fuzzing)
+- [PowerShell](#powershell)
 - [Vulnerable VMs](#vuln-vms)
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
@@ -28,6 +29,13 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+
+# PowerShell
+- https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
+- https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7
+- https://www.comparitech.com/net-admin/powershell-cheat-sheet
+- https://docs.microsoft.com/en-us/power-platform/admin/wp-task-automation-powershell
+- https://www.guru99.com/powershell-tutorial.html
 
 # Vulnerable VMs
 - https://github.com/cliffe/SecGen
