@@ -251,7 +251,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug/
 - https://portswigger.net/research/bypassing-csp-with-policy-injection
-
+- https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers/
 
 
 # NEWS SITES
