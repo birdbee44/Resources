@@ -259,6 +259,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://shahmeeramir.com/methods-to-bypass-csrf-protection-on-a-web-application-3198093f6599
 - https://research.securitum.com/what-is-the-csrf-cross-site-request-forgery-vulnerability/
 - https://www.errno.fr/Attacking_source_repositories
+- https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
