@@ -231,6 +231,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/
 - https://blog.intigriti.com/2020/02/24/twitter-recap-1-bug-bounty-tips-by-the-intigriti-community/#tools_5
 - https://bugbountyguide.com/
+- https://hackerone.com/reports/867952
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
 - https://research.securitum.com/xss-in-amp4email-dom-clobbering/
 - https://medium.com/@vignesh4303/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248
