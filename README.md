@@ -254,6 +254,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://portswigger.net/research/bypassing-csp-with-policy-injection
 - https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers/
 - https://samcurry.net/hacking-starbucks/
+- https://exploitway.com/github-dorks-for-penetration-testing/
+
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
