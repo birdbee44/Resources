@@ -256,6 +256,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://samcurry.net/hacking-starbucks/
 - https://exploitway.com/github-dorks-for-penetration-testing/
 - https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1
+- https://shahmeeramir.com/methods-to-bypass-csrf-protection-on-a-web-application-3198093f6599
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
