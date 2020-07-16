@@ -258,6 +258,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1
 - https://shahmeeramir.com/methods-to-bypass-csrf-protection-on-a-web-application-3198093f6599
 - https://research.securitum.com/what-is-the-csrf-cross-site-request-forgery-vulnerability/
+- https://www.errno.fr/Attacking_source_repositories
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
