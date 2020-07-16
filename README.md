@@ -255,7 +255,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers/
 - https://samcurry.net/hacking-starbucks/
 - https://exploitway.com/github-dorks-for-penetration-testing/
-
+- https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1
 
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
