@@ -261,7 +261,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.errno.fr/Attacking_source_repositories
 - https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF
 - https://secapps.com/tutorials/security-testing-beyond-the-edge/
-
+- https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
