@@ -262,6 +262,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF
 - https://secapps.com/tutorials/security-testing-beyond-the-edge/
 - https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
+- https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
+
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
@@ -328,6 +330,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://python-reference.readthedocs.io/en/latest/docs/functions/__import__.html
 - https://dev.to/serhatteker/how-to-upgrade-to-python-3-7-on-ubuntu-18-04-18-10-5hab
 - https://archive.org/details/comp3321 ( requested from NSA by Freedom of Information Act- python courses) 
+
 # Ruby
 - http://rubylearning.com
 - https://www.ruby-lang.org/en/documentation/quickstart
@@ -340,11 +343,12 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - http://sinatrarb.com
 - https://thoughtbot.com/blog/lets-build-a-sinatra
 - https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04
+
 # C++
 - https://www.cplusplus.com/
 - https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
 - https://www.cs.bu.edu/teaching/cpp/writing-makefiles
-- 
+
 # Honey Pots
 - https://github.com/wish-i-was/femida
 - https://github.com/cowrie/cowrie
