@@ -263,7 +263,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://secapps.com/tutorials/security-testing-beyond-the-edge/
 - https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
-
+- https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
