@@ -121,10 +121,11 @@
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
 - https://www.crowdstrike.com/blog/who-is-fancy-bear
-- https://content.fireeye.com/apt-41/rpt-apt41/
-- https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550/
+- https://content.fireeye.com/apt-41/rpt-apt41
+- https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
+- https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/
 
-# PHISHING TOOLS
+ # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
 - Evilginx2  MITM phishing    - https://github.com/kgretzky/evilginx2
 - HiddenEye                   - https://github.com/DarkSecDevelopers/HiddenEye
