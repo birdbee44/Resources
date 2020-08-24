@@ -122,7 +122,7 @@
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
 - https://www.crowdstrike.com/blog/who-is-fancy-bear
 - https://content.fireeye.com/apt-41/rpt-apt41/
-
+- https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550/
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
