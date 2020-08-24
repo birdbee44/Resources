@@ -121,6 +121,8 @@
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
 - https://www.crowdstrike.com/blog/who-is-fancy-bear
+- https://content.fireeye.com/apt-41/rpt-apt41/
+
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
