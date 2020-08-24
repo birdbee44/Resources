@@ -1,6 +1,6 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
-- [APTS](#apt)
+- [APTS](#apts)
 - [Reverse Engineering](#reverse_engineering)
 - [MALWARE](#malware)
 - [Machine Learning](#machine-Learning)
@@ -119,6 +119,8 @@
 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
+- https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
+- https://www.crowdstrike.com/blog/who-is-fancy-bear
 
 # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
