@@ -70,6 +70,7 @@
 - https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
 - https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d
 - https://medium.com/data-folks-indonesia/build-your-own-quotes-generator-3a23e9cbcff3
+- https://hackernoon.com/dont-be-fooled-deceptive-cryptocurrency-price-predictions-using-deep-learning-bf27e4837151
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk
