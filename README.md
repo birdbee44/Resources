@@ -364,6 +364,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/desaster/kippo
 - https://github.com/andrewmichaelsmith/bluepot
 - https://github.com/mushorg/conpot
+- https://lwn.net/Articles/240120
 
 # CTF
 - https://github.com/gabemarshall/microctfs
