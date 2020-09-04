@@ -51,6 +51,7 @@
 
 # SSH 
 - https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters
+- https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work
 
 # Deep Learning
 - https://deej-ai.online/
