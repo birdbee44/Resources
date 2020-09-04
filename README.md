@@ -29,6 +29,9 @@
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
+- [Red Team](#red-team)
+# red-Team
+- https://www.ired.team/
 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
