@@ -82,6 +82,7 @@
 - https://www.geeksforgeeks.org/working-with-magic-numbers-in-linux
 - https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
+- https://towardsdatascience.com/building-a-quotebot-with-machine-learning-eca39272e3b7
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
