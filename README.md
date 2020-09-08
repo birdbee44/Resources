@@ -192,6 +192,7 @@
 - http://list.zju.edu.cn/kaibu/netsec/lec04-blockchain.ppt
 - https://www.exablue.de/en/blog/2020-06-11-malware-on-the-blockchain.html
 - https://cryptofacilities.zendesk.com/hc/en-us/articles/115002807834-Calculation-of-profit-and-loss
+- https://simpleaswater.com/cryptography/
 
 # Tor
 - Tor's web site - https://www.torproject.org/
