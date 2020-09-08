@@ -118,12 +118,13 @@
 - https://gto76.github.io/linux-cheatsheet/
 - https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf
 
-# Encryption
+# Encryption & Cryptography
 - https://www.openpgp.org/
 - https://digitalguardian.com/blog/what-pgp-encryption-defining-and-outlining-uses-pgp-encryption
 - https://cs.nju.edu.cn/daihp/ns_course/04HaipengDai_SymmetricCrypto_2.pdf
 - https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
+- https://simpleaswater.com/cryptography/
 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
@@ -192,7 +193,6 @@
 - http://list.zju.edu.cn/kaibu/netsec/lec04-blockchain.ppt
 - https://www.exablue.de/en/blog/2020-06-11-malware-on-the-blockchain.html
 - https://cryptofacilities.zendesk.com/hc/en-us/articles/115002807834-Calculation-of-profit-and-loss
-- https://simpleaswater.com/cryptography/
 
 # Tor
 - Tor's web site - https://www.torproject.org/
