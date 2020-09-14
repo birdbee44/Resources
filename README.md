@@ -142,6 +142,7 @@
 - https://stackoverflow.com/questions/2029426/what-is-xor-encryption
 - https://ctf101.org/cryptography/what-is-xor
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
+- https://math.stackexchange.com/questions/28955/how-to-break-xor-cipher-with-repeating-key
 - 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
