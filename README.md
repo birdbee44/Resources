@@ -55,6 +55,10 @@
 # SSH 
 - https://ma.ttias.be/socks-proxy-linux-ssh-bypass-content-filters
 - https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+- https://www.debian.org/devel/passwordlessssh
+- https://linuxhandbook.com/add-ssh-public-key-to-server/
+- https://serverpilot.io/docs/how-to-use-ssh-public-key-authentication/
 
 # Deep Learning
 - https://deej-ai.online/
