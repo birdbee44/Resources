@@ -315,11 +315,13 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Blisqy - Exploit Time-based blind-SQL       - https://github.com/JohnTroony/Blisqy
 
 # SQL Injection
-- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet
 - http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
 - https://www.exploit-db.com/papers/13650
-- https://trustfoundry.net/bypassing-wafs-with-json-unicode-escape-sequences/
-
+- https://trustfoundry.net/bypassing-wafs-with-json-unicode-escape-sequences
+- https://realpython.com/prevent-python-sql-injection
+- https://bobby-tables.com
+- 
 # CSRF
 - https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
 - https://trustfoundry.net/cross-site-request-forgery-cheat-sheet/
