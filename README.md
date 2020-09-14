@@ -131,7 +131,8 @@
 - https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
 - https://simpleaswater.com/cryptography/
-
+- http://pi.math.cornell.edu/~morris/135/Bacon.pdf
+- 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
