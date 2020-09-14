@@ -138,6 +138,9 @@
 - https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/Vig-Base.html
 - http://practicalcryptography.com/ciphers/simple-substitution-cipher
 - https://blog.finjan.com/substitution-ciphers-a-look-at-the-origins-and-applications-of-cryptography
+- https://blog.logsign.com/how-does-xor-cipher-work
+- https://stackoverflow.com/questions/2029426/what-is-xor-encryption
+- https://ctf101.org/cryptography/what-is-xor
 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
