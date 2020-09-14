@@ -141,7 +141,8 @@
 - https://blog.logsign.com/how-does-xor-cipher-work
 - https://stackoverflow.com/questions/2029426/what-is-xor-encryption
 - https://ctf101.org/cryptography/what-is-xor
-
+- https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
+- 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
