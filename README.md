@@ -143,6 +143,8 @@
 - https://ctf101.org/cryptography/what-is-xor
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
 - https://math.stackexchange.com/questions/28955/how-to-break-xor-cipher-with-repeating-key
+- https://carterbancroft.com/breaking-repeating-key-xor-programmatically/
+- https://stackoverflow.com/questions/4078902/cracking-short-rsa-keys
 - 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
@@ -401,6 +403,10 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://laconicwolf.com/2018/06/11/cryptopals-challenge-5-repeating-key-xor-encryption
 - https://truedigitalsecurity.com/blog/csaw-2015-crypto-500-bricks-of-gold-writeup
 - https://www.tunnelsup.com/helpful-linux-commands-for-ctfs
+- https://www.tildeho.me/ritsec-ctf-writeup-recover-aes-cbc-iv
+- https://mikehacksthings.com/2019/11/07/my-favorite-challenge-of-the-fall-2019-hackathon
+- https://mikehacksthings.com/2018/11/19/cny-hackathon-ctf-walkthrough-fall-2018-edition
+- https://medium.com/@thereallulz/write-up-some-random-ctf-challenges-stego-part-1-be6e0c17fd4e
 
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
