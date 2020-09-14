@@ -132,7 +132,13 @@
 - https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html
 - https://simpleaswater.com/cryptography/
 - http://pi.math.cornell.edu/~morris/135/Bacon.pdf
-- 
+- http://practicalcryptography.com/ciphers/caesar-cipher
+- https://www.boxentriq.com/code-breaking/caesar-cipher
+- https://www.boxentriq.com/code-breaking/vigenere-cipher
+- https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/Vig-Base.html
+- http://practicalcryptography.com/ciphers/simple-substitution-cipher
+- https://blog.finjan.com/substitution-ciphers-a-look-at-the-origins-and-applications-of-cryptography
+
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
