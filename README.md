@@ -90,6 +90,7 @@
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
 - https://towardsdatascience.com/building-a-quotebot-with-machine-learning-eca39272e3b7
 - https://www.kitploit.com/2017/01/repy2exe-reverse-engineering-tool-for.html
+- https://malwareunicorn.org/workshops/re101.html
 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
