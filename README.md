@@ -370,7 +370,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://dev.to/serhatteker/how-to-upgrade-to-python-3-7-on-ubuntu-18-04-18-10-5hab
 - https://archive.org/details/comp3321 ( requested from NSA by Freedom of Information Act- python courses) 
 - https://www.digitalocean.com/community/tutorials/understanding-dictionaries-in-python-3
-
+- https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3
 # Ruby
 - http://rubylearning.com
 - https://www.ruby-lang.org/en/documentation/quickstart
