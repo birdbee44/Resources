@@ -250,10 +250,13 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
 - black box WordPress security    - https://github.com/wpscanteam/wpscan
 - ALT DNS - DNS recon             - https://github.com/infosec-au/altdns
+- Sn1per  automated scanner       - https://github.com/1N3/Sn1per
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/maurosoria/dirsearch
 - https://github.com/guelfoweb/knock
+- https://github.com/nahamsec/lazyrecon
+- https://cirt.net/Nikto2
 
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
