@@ -249,7 +249,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
 - black box WordPress security    - https://github.com/wpscanteam/wpscan
-- 
+- ALT DNS - DNS recon             - https://github.com/infosec-au/altdns
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/maurosoria/dirsearch
