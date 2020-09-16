@@ -247,7 +247,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/maurosoria/dirsearch
-- 
+- https://github.com/guelfoweb/knock
 
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
