@@ -245,11 +245,12 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
 - Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
+- black box WordPress security    - https://github.com/wpscanteam/wpscan
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/maurosoria/dirsearch
 - https://github.com/guelfoweb/knock
-- 
+
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
 - XSpear Powerfull XSS Scanning And Parameter Analysis Tool  - https://github.com/hahwul/XSpear
