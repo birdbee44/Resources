@@ -369,6 +369,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://python-reference.readthedocs.io/en/latest/docs/functions/__import__.html
 - https://dev.to/serhatteker/how-to-upgrade-to-python-3-7-on-ubuntu-18-04-18-10-5hab
 - https://archive.org/details/comp3321 ( requested from NSA by Freedom of Information Act- python courses) 
+- https://www.digitalocean.com/community/tutorials/understanding-dictionaries-in-python-3
 
 # Ruby
 - http://rubylearning.com
