@@ -241,6 +241,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://map.lookingglasscyber.com/
 
 # SCANNERS
+- shuffleDNS is a wrapper around massdns - https://github.com/projectdiscovery/shuffledns
 - Fast web fuzzer written in Go   - https://github.com/ffuf/ffuf
 - bruteforce for AWS s3 buckets   - https://github.com/nahamsec/lazys3
 - Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
