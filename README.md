@@ -245,7 +245,9 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
--
+- https://github.com/aboul3la/Sublist3r
+- https://github.com/maurosoria/dirsearch
+- 
 
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
