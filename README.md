@@ -244,10 +244,12 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - shuffleDNS is a wrapper around massdns - https://github.com/projectdiscovery/shuffledns
 - Fast web fuzzer written in Go   - https://github.com/ffuf/ffuf
 - bruteforce for AWS s3 buckets   - https://github.com/nahamsec/lazys3
+- MassDNS  subdomain enumeration  - https://github.com/blechschmidt/massdns
 - Fenrir Simple Bash IOC Scanner  - https://github.com/Neo23x0/Fenrir
 - Slurp S3 Bucket Enumerator      - https://github.com/hehnope/slurp
 - RapidScan Web Scanner           - https://github.com/skavngr/rapidscan
 - black box WordPress security    - https://github.com/wpscanteam/wpscan
+- 
 - Httpgrep - Scans HTTP Servers To Find Given Strings In URIs   - https://github.com/noptrix/httpgrep
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/maurosoria/dirsearch
