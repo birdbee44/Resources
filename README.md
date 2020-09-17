@@ -30,6 +30,10 @@
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
 - [Red Team](#red-team)
+- [Interview-cheatsheets](#interview-cheatsheets)
+# interview-cheatsheets
+- https://www.guru99.com/linux-interview-questions-answers.html
+
 # red-Team
 - https://www.ired.team/
 
