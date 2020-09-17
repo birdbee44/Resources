@@ -31,11 +31,14 @@
 - [Encryption](#encryption)
 - [Red Team](#red-team)
 - [Interview-cheatsheets](#interview-cheatsheets)
-- [Search Engines](#search-eng
+- [Search Engines](#search-engines)
+
 # search-engines
 - https://buckets.grayhatwarfare.com
-- https://www.shodan.io/
-- 
+- https://www.shodan.io
+- https://censys.io
+- https://ivre.rocks
+
 
 # interview-cheatsheets
 - https://www.guru99.com/linux-interview-questions-answers.html
