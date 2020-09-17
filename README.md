@@ -31,6 +31,12 @@
 - [Encryption](#encryption)
 - [Red Team](#red-team)
 - [Interview-cheatsheets](#interview-cheatsheets)
+- [Search Engines](#search-eng
+# search-engines
+- https://buckets.grayhatwarfare.com
+- https://www.shodan.io/
+- 
+
 # interview-cheatsheets
 - https://www.guru99.com/linux-interview-questions-answers.html
 
