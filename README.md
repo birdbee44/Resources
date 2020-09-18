@@ -169,6 +169,8 @@
 - https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
 - https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/
 - https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf
+- http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
+
 
  # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
