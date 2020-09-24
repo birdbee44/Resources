@@ -402,6 +402,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://realpython.com/python-data-classes
 - https://realpython.com/python-f-strings
 - https://deepsource.io/blog/python-walrus-operator
+- https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+
 
 # Ruby
 - http://rubylearning.com
