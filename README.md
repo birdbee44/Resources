@@ -399,6 +399,10 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://archive.org/details/comp3321 ( requested from NSA by Freedom of Information Act- python courses) 
 - https://www.digitalocean.com/community/tutorials/understanding-dictionaries-in-python-3
 - https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3
+- https://realpython.com/python-data-classes
+- https://realpython.com/python-f-strings
+- https://deepsource.io/blog/python-walrus-operator
+
 # Ruby
 - http://rubylearning.com
 - https://www.ruby-lang.org/en/documentation/quickstart
