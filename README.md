@@ -32,6 +32,9 @@
 - [Red Team](#red-team)
 - [Interview-cheatsheets](#interview-cheatsheets)
 - [Search Engines](#search-engines)
+- [Bash](#bash)
+# Bash
+- https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
 
 # search-engines
 - https://buckets.grayhatwarfare.com
