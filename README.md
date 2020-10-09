@@ -47,7 +47,8 @@
 - https://www.guru99.com/linux-interview-questions-answers.html
 
 # red-Team
-- https://www.ired.team/
+- https://www.ired.team
+- https://artkond.com/2017/03/23/pivoting-guide
 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
