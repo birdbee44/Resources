@@ -15,6 +15,7 @@
 - [Bug Bounty](#bug-bounty)
 - [WEB](#web)
 - [NEWS SITES](#news-sites)
+- [BLUE-TEAM](#blue-team)
 - [XSS](#xss)
 - [SQL Injection](#sql-injection)
 - [CSRF](#csrf)
@@ -49,6 +50,9 @@
 # red-Team
 - https://www.ired.team
 - https://artkond.com/2017/03/23/pivoting-guide
+
+# blue team 
+- https://securethelogs.com/hacking-with-powershell-blue-team
 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
