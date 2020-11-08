@@ -130,7 +130,7 @@
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 - https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://towardsdatascience.com/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b
-
+- https://towardsdatascience.com/naive-bayes-explained-108c095241eb
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
