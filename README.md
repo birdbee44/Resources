@@ -429,6 +429,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - http://sinatrarb.com
 - https://thoughtbot.com/blog/lets-build-a-sinatra
 - https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04
+- https://ankane.org/more-ml-gems
+- https://dev.to/daviducolo/machinelearning-with-ruby-3m75
 
 # C++
 - https://www.cplusplus.com/
