@@ -40,6 +40,8 @@
 
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
+
+
 # search-engines
 - https://buckets.grayhatwarfare.com
 - https://www.shodan.io
