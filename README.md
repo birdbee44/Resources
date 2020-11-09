@@ -1,6 +1,6 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
-- [Awesome List](#Awesome_List)
+- [Awesome List](#awesome-list)
 - [APTS](#apts)
 - [Reverse Engineering](#reverse_engineering)
 - [MALWARE](#malware)
