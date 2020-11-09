@@ -1,5 +1,6 @@
 - [PHISHING TOOLS](#phishing-tools)
 - [OSINT](#osint)
+- [Awesome List](#Awesome_List)
 - [APTS](#apts)
 - [Reverse Engineering](#reverse_engineering)
 - [MALWARE](#malware)
@@ -37,6 +38,8 @@
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
 
+# Awesome List
+- https://github.com/igorbarinov/awesome-bitcoin
 # search-engines
 - https://buckets.grayhatwarfare.com
 - https://www.shodan.io
