@@ -50,6 +50,7 @@
 - https://www.github.com/carpedm20/awesome-hacking 
 - https://www.github.com/thibmaek/awesome-raspberry-pi
 - https://www.github.com/coinpride/CryptoList
+- https://www.github.com/ritchieng/the-incredible-pytorch
 
 # search-engines
 - https://buckets.grayhatwarfare.com
