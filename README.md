@@ -47,6 +47,8 @@
 - https://www.github.com/keon/awesome-nlp
 - https://www.github.com/kjw0612/awesome-rnn
 - https://www.github.com/tayllan/awesome-algorithms
+- https://www.github.com/carpedm20/awesome-hacking 
+
 # search-engines
 - https://buckets.grayhatwarfare.com
 - https://www.shodan.io
