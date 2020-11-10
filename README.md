@@ -51,6 +51,8 @@
 - https://www.github.com/thibmaek/awesome-raspberry-pi
 - https://www.github.com/coinpride/CryptoList
 - https://www.github.com/ritchieng/the-incredible-pytorch
+- https://www.github.com/meirwah/awesome-incident-response
+
 
 # search-engines
 - https://buckets.grayhatwarfare.com
