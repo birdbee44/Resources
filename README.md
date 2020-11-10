@@ -250,17 +250,20 @@
 - https://cryptofacilities.zendesk.com/hc/en-us/articles/115002807834-Calculation-of-profit-and-loss
 - https://github.com/citp/BlockSci
 - https://bitcointalk.org/index.php?topic=5141594.0
-- https://blockchair.com - Blockchain Analysis 
-- Blockstream.info - Blockchain Analysis 
+
+- https://blockchain.unica.it/projects/blockchain-analytics
+
 # Tor
 - Tor's web site - https://www.torproject.org/
 - Dark web sites - https://dark.fail/#Philosophy
 - How tor works  - https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/
 
 # BlockChain Analysis
-- Wallet Explorer - https://www.walletexplorer.com
-- C-Hound         - https://www.c-hound.ai/
-- BlockChain      - https://www.blockchain.com/
+- Wallet Explorer     - https://www.walletexplorer.com
+- C-Hound             - https://www.c-hound.ai
+- BlockChain          - https://www.blockchain.com
+- BlockChair          - https://blockchair.com 
+- Blockchain Analysis - https://Blockstream.info 
 
 # Malware Samples 
 NOTE: The ones with * after the links are ones that are vetted. If you use your uc email and tell them your a cyber student, they wil mostly likely give you access. 
