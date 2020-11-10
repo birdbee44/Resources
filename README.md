@@ -41,7 +41,11 @@
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
 - https://apsdehal.in/awesome-ctf
-
+- https://www.github.com/josephmisiti/awesome-machine-learning
+- https://www.github.com/alebcay/awesome-shell
+- https://www.github.com/k4m4/movies-for-hackers
+- https://www.github.com/keon/awesome-nlp
+- https://www.github.com/kjw0612/awesome-rnn
 
 # search-engines
 - https://buckets.grayhatwarfare.com
