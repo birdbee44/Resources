@@ -53,6 +53,7 @@
 - https://www.github.com/ritchieng/the-incredible-pytorch
 - https://www.github.com/meirwah/awesome-incident-response
 - https://www.github.com/onlurking/awesome-infosec
+- https://www.github.com/secfigo/Awesome-Fuzzing
 
 # search-engines
 - https://buckets.grayhatwarfare.com
