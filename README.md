@@ -49,6 +49,7 @@
 - https://www.github.com/tayllan/awesome-algorithms
 - https://www.github.com/carpedm20/awesome-hacking 
 - https://www.github.com/thibmaek/awesome-raspberry-pi
+- https://www.github.com/coinpride/CryptoList
 
 # search-engines
 - https://buckets.grayhatwarfare.com
