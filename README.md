@@ -266,6 +266,8 @@
 - Blockchain Analysis - https://Blockstream.info 
 - https://oxt.me
 - https://matbea.net
+- https://sochain.com
+
 
 # Malware Samples 
 NOTE: The ones with * after the links are ones that are vetted. If you use your uc email and tell them your a cyber student, they wil mostly likely give you access. 
