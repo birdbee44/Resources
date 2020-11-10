@@ -46,7 +46,7 @@
 - https://www.github.com/k4m4/movies-for-hackers
 - https://www.github.com/keon/awesome-nlp
 - https://www.github.com/kjw0612/awesome-rnn
-
+- https://www.github.com/tayllan/awesome-algorithms
 # search-engines
 - https://buckets.grayhatwarfare.com
 - https://www.shodan.io
