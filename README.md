@@ -52,7 +52,7 @@
 - https://www.github.com/coinpride/CryptoList
 - https://www.github.com/ritchieng/the-incredible-pytorch
 - https://www.github.com/meirwah/awesome-incident-response
-
+- https://www.github.com/onlurking/awesome-infosec
 
 # search-engines
 - https://buckets.grayhatwarfare.com
