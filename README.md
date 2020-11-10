@@ -40,6 +40,7 @@
 
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
+- https://apsdehal.in/awesome-ctf
 
 
 # search-engines
