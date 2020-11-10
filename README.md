@@ -249,6 +249,7 @@
 - https://www.exablue.de/en/blog/2020-06-11-malware-on-the-blockchain.html
 - https://cryptofacilities.zendesk.com/hc/en-us/articles/115002807834-Calculation-of-profit-and-loss
 - https://github.com/citp/BlockSci
+- https://bitcointalk.org/index.php?topic=5141594.0
 # Tor
 - Tor's web site - https://www.torproject.org/
 - Dark web sites - https://dark.fail/#Philosophy
