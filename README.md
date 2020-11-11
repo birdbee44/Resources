@@ -139,7 +139,8 @@
 - https://medium.com/analytics-vidhya/create-a-rapping-ai-using-deep-learning-part-1-collecting-the-data-634bbfa51ff5
 - https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe
 - https://github.com/josephmisiti/awesome-machine-learning
-- https://aryamccarthy.github.io/malmi2016dopelearning/
+- https://aryamccarthy.github.io/malmi2016dopelearning
+- https://towardsdatascience.com/introduction-to-neural-networks-advantages-and-applications-96851bd1a207
 - https://genius.com/posts/63-Introducing-rapmetricstm-the-birth-of-statistical-analysis-of-rap-lyrics
 - https://medium.com/swlh/build-spotify-playlist-using-machine-learning-45352975d2ee
 - https://towardsdatascience.com/trolls-and-bots-are-disrupting-social-media-heres-how-ai-can-stop-them-d9b969336a06
