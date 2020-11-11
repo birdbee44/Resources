@@ -151,6 +151,7 @@
 - https://towardsdatascience.com/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b
 - https://towardsdatascience.com/naive-bayes-explained-108c095241eb
 - https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d
+- https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
@@ -291,11 +292,11 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - VirusTotal      - https://www.virustotal.com/
 
 # Threat Maps
-- https://threatmap.checkpoint.com/
-- https://cybermap.kaspersky.com/
+- https://threatmap.checkpoint.com
+- https://cybermap.kaspersky.com
 - https://www.fireeye.com/cyber-map/threat-map.html
-- https://threatmap.fortiguard.com/
-- https://map.lookingglasscyber.com/
+- https://threatmap.fortiguard.com
+- https://map.lookingglasscyber.com
 
 # SCANNERS
 - shuffleDNS is a wrapper around massdns - https://github.com/projectdiscovery/shuffledns
@@ -325,47 +326,47 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn
 
 # Bug Bounty
-- https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
-- https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter/
+- https://shkspr.mobi/blog/2018/12/twitter-bug-bounty
+- https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter
 - https://portswigger.net/daily-swig/bug-bounty-radar-the-latest-bug-bounty-programs-for-march-2020
 - https://medium.com/@muff1n/how-to-become-a-bug-bounty-hunter-dffce2bb333c
-- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
-- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug/
+- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts
+- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug
 - https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0
-- https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/
+- https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass
 - https://blog.intigriti.com/2020/02/24/twitter-recap-1-bug-bounty-tips-by-the-intigriti-community/#tools_5
 - https://bugbountyguide.com/
 - https://www.hackerone.com/blog/100-hacking-tools-and-resources
 - https://hackerone.com/reports/867952
-- https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
-- https://research.securitum.com/xss-in-amp4email-dom-clobbering/
+- https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s
+- https://research.securitum.com/xss-in-amp4email-dom-clobbering
 - https://medium.com/@vignesh4303/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248
 - https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
 - https://pentester.land/list-of-bug-bounty-writeups.html
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
-- https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
+- https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
-- https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
+- https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple
 - https://medium.com/@zonduu/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
-- https://www.bad5ect0r.sh/index.php/2020/05/17/stored-xss-password-disclosure/
+- https://www.bad5ect0r.sh/index.php/2020/05/17/stored-xss-password-disclosure
 - https://github.com/pry0cc/axiom
 - https://challenge.intigriti.io/
-- https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/
-- https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/
-- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/
-- http://blog.oath.ninja/basic-bug-bounty-faq/
+- https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome
+- https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin
+- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts
+- http://blog.oath.ninja/basic-bug-bounty-faq
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
-- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug/
+- https://0xsha.gitbook.io/bug-bounties-five-weeks-to-your-first-bug
 - https://portswigger.net/research/bypassing-csp-with-policy-injection
-- https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers/
-- https://samcurry.net/hacking-starbucks/
-- https://exploitway.com/github-dorks-for-penetration-testing/
+- https://www.bugcrowd.com/resources/webinars/api-security-testing-for-hackers
+- https://samcurry.net/hacking-starbucks
+- https://exploitway.com/github-dorks-for-penetration-testing
 - https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1
 - https://shahmeeramir.com/methods-to-bypass-csrf-protection-on-a-web-application-3198093f6599
-- https://research.securitum.com/what-is-the-csrf-cross-site-request-forgery-vulnerability/
+- https://research.securitum.com/what-is-the-csrf-cross-site-request-forgery-vulnerability
 - https://www.errno.fr/Attacking_source_repositories
 - https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF
-- https://secapps.com/tutorials/security-testing-beyond-the-edge/
+- https://secapps.com/tutorials/security-testing-beyond-the-edge
 - https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards
 - https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
@@ -385,13 +386,13 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - BitDefender       - https://labs.bitdefender.com
 - Malwarebytes      - https://blog.malwarebytes.com
 - Netsec            - https://reddit.com/r/netsec
-- CheckPoint        - https://research.checkpoint.com/
+- CheckPoint        - https://research.checkpoint.com
 
 # XSS
-- https://www.google.com/about/appsecurity/learning/xss/
+- https://www.google.com/about/appsecurity/learning/xss
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
-- https://xsses.rocks/sample-page/
+- https://xsses.rocks/sample-page
 - https://github.com/wish-i-was/femida
 
 # SQL Injection Tools
@@ -409,7 +410,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - 
 # CSRF
 - https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
-- https://trustfoundry.net/cross-site-request-forgery-cheat-sheet/
+- https://trustfoundry.net/cross-site-request-forgery-cheat-sheet
 
 # Google Hacking
 - https://www.exploit-db.com/google-hacking-database
@@ -419,10 +420,10 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 
 # Python
 - https://codecademy.com/learn/learn-python
-- https://docs.python-guide.org/intro/learning/
+- https://docs.python-guide.org/intro/learning
 - https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf
-- https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
-- https://refactoring.guru/design-patterns/
+- https://docs.microsoft.com/en-us/learn/modules/intro-to-python
+- https://refactoring.guru/design-patterns
 - https://alysivji.github.io/simple-plugin-system.html
 - https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures
 - https://www.abhishekshukla.com/python/adventures-in-cryptography-with-python-xor-cipher
@@ -462,7 +463,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://dev.to/daviducolo/machinelearning-with-ruby-3m75
 
 # C++
-- https://www.cplusplus.com/
+- https://www.cplusplus.com
 - https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
 - https://www.cs.bu.edu/teaching/cpp/writing-makefiles
 
