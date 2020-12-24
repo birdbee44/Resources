@@ -268,6 +268,8 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://github.com/citp/BlockSci
 - https://bitcointalk.org/index.php?topic=5141594.0
 - https://blockchain.unica.it/projects/blockchain-analytics
+- https://youtu.be/cjbHqvr4ffo - How Does Monero Work?
+
 
 # Offline wallet 
 - https://moneroaddress.org
