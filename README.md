@@ -270,6 +270,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://cryptofacilities.zendesk.com/hc/en-us/articles/115002807834-Calculation-of-profit-and-loss
 - https://github.com/citp/BlockSci
 - https://bitcointalk.org/index.php?topic=5141594.0
+- https://medium.com/@philipshen13/monero-part-1-key-concepts-3671186016c6
 - https://blockchain.unica.it/projects/blockchain-analytics
 - https://youtu.be/cjbHqvr4ffo - How Does Monero Work?
 - https://bitcoin.stackexchange.com/questions/59955/how-do-i-calculate-the-profit-of-the-value-of-my-bitcoin
