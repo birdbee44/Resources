@@ -37,6 +37,7 @@
 - [Bash](#bash)
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
+- https://www.shellcheck.net/#
 
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
