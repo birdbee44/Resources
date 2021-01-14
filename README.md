@@ -154,7 +154,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d
 - https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans
 - https://realpython.com/k-means-clustering-python
-
+- https://medium.com/dataseries/k-means-clustering-explained-visually-in-5-minutes-b900cc69d175
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
