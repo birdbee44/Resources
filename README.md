@@ -194,7 +194,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://math.stackexchange.com/questions/28955/how-to-break-xor-cipher-with-repeating-key
 - https://carterbancroft.com/breaking-repeating-key-xor-programmatically/
 - https://stackoverflow.com/questions/4078902/cracking-short-rsa-keys
-- 
+- https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
@@ -499,6 +499,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://mikehacksthings.com/2018/11/19/cny-hackathon-ctf-walkthrough-fall-2018-edition
 - https://medium.com/@thereallulz/write-up-some-random-ctf-challenges-stego-part-1-be6e0c17fd4e
 - https://underthewire.tech/
+- https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
 - https://github.com/hellman/xortool
