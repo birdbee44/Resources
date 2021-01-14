@@ -121,6 +121,8 @@
 - https://github.com/firmai/awesome-google-colab
 - https://github.com/alpv95/MemeProject
 - https://ai-mrkogao.github.io/reinforcement%20learning/pygta5/
+- https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
 
 # Reverse_Engineering
 - https://www.refirmlabs.com/reverse-engineering-my-routers-firmware-with-binwalk
