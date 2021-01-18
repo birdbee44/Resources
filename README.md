@@ -191,6 +191,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://cheatsheet.dennyzhang.com/cheatsheet-ssh-a4
 - https://gto76.github.io/linux-cheatsheet/
 - https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf
+- https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
 
 # Encryption & Cryptography
 - https://www.openpgp.org/
