@@ -46,6 +46,13 @@
 - https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04
 - https://ubuntu.com/server/docs/service-domain-name-service-dns
 
+# Fedora
+- https://www.digitalocean.com/community/tutorials/initial-setup-of-a-fedora-21-server
+- https://manjaro.site/linux-ultimate-guide/fedora-tutorial
+- https://www.tecmint.com/things-to-do-after-fedora-26-installation
+- https://fedora.fandom.com/wiki/Basic_Commands
+- 
+
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
 - https://apsdehal.in/awesome-ctf
