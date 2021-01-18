@@ -32,12 +32,19 @@
 - [Threat Maps](#threat-maps)
 - [Encryption](#encryption)
 - [Red Team](#red-team)
+- [Networking](#network)
 - [Interview-cheatsheets](#interview-cheatsheets)
 - [Search Engines](#search-engines)
 - [Bash](#bash)
+
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
 - https://www.shellcheck.net/#
+
+# Networking
+- https://opensource.com/article/17/4/build-your-own-name-server
+- https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04
+- https://ubuntu.com/server/docs/service-domain-name-service-dns
 
 # Awesome List
 - https://github.com/igorbarinov/awesome-bitcoin
@@ -72,7 +79,8 @@
 
 # blue team 
 - https://securethelogs.com/hacking-with-powershell-blue-team
-
+- https://web.mit.edu/kerberos/
+- 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
 - https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7
@@ -158,6 +166,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans
 - https://realpython.com/k-means-clustering-python
 - https://medium.com/dataseries/k-means-clustering-explained-visually-in-5-minutes-b900cc69d175
+
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
 - https://devhints.io/curl
@@ -198,6 +207,9 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://carterbancroft.com/breaking-repeating-key-xor-programmatically/
 - https://stackoverflow.com/questions/4078902/cracking-short-rsa-keys
 - https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639
+- https://www.techrepublic.com/article/how-to-sign-a-file-on-linux-with-gpg
+- https://web.mit.edu/kerberos
+- 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
 - https://threatconnect.com/blog/using-fancy-bear-ssl-certificate-information-to-identify-their-infrastructure
@@ -297,6 +309,10 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://matbea.net
 - https://sochain.com
 
+# Centos 
+- https://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/
+- https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf
+- 
 
 # Malware Samples 
 NOTE: The ones with * after the links are ones that are vetted. If you use your uc email and tell them your a cyber student, they wil mostly likely give you access. 
