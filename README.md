@@ -173,6 +173,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans
 - https://realpython.com/k-means-clustering-python
 - https://medium.com/dataseries/k-means-clustering-explained-visually-in-5-minutes-b900cc69d175
+- https://joshualoong.com/2018/07/03/Topic-Modelling-Song-Lyrics-An-Exploration-in-Unsupervised-Text-Analytics/
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
