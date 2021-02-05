@@ -174,6 +174,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://realpython.com/k-means-clustering-python
 - https://medium.com/dataseries/k-means-clustering-explained-visually-in-5-minutes-b900cc69d175
 - https://joshualoong.com/2018/07/03/Topic-Modelling-Song-Lyrics-An-Exploration-in-Unsupervised-Text-Analytics/
+- https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
 
 # Cheatsheets
 - https://cheatography.com/albertx/cheat-sheets/openssl/
