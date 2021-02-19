@@ -40,6 +40,7 @@
 
 # machine-learning-and-hacking
 - https://github.com/delvelabs/batea
+- https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity
 - 
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
