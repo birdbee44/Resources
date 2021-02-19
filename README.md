@@ -38,7 +38,7 @@
 - [Search Engines](#search-engines)
 - [Bash](#bash)
 
-# Machine learning & hacking
+# machine-learning-and-hacking
 - https://github.com/delvelabs/batea
 - 
 # Bash
