@@ -7,6 +7,7 @@
 - [Machine Learning](#machine-Learning)
 - [MALWARE SAMPLES](#malware-samples)
 - [CHEATSHEETS](#cheatsheets)
+- [Machine learning & hacking](#machine-learning-and-hacking)
 - [SCANNERS](#scanners)
 - [Kali Linux](#kali-linux)
 - [Linux Guide](#linux-guide)
@@ -37,6 +38,9 @@
 - [Search Engines](#search-engines)
 - [Bash](#bash)
 
+# Machine learning & hacking
+- https://github.com/delvelabs/batea
+- 
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
 - https://www.shellcheck.net/#
