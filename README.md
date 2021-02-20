@@ -41,7 +41,8 @@
 # machine-learning-and-hacking
 - https://github.com/delvelabs/batea
 - https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity
-- 
+- https://apps.dtic.mil/dtic/tr/fulltext/u2/a618584.pdf - Automated Cyber Red Teaming - Cyber and Electronic Warfare Division - defence Science and Technology Organisation
+
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
 - https://www.shellcheck.net/#
