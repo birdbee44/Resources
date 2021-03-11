@@ -2,6 +2,7 @@
 - [OSINT](#osint)
 - [Awesome List](#awesome-list)
 - [APTS](#apts)
+- [SSRF](#ssrf)
 - [Reverse Engineering](#reverse_engineering)
 - [MALWARE](#malware)
 - [Machine Learning](#machine-Learning)
@@ -47,8 +48,11 @@
 - http://taochen.github.io/publications/papers/issta20.pdf
 # Bash
 - https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
-- https://www.shellcheck.net/#
+- https://www.shellcheck.net
 
+# ssrf 
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/server-side-request-forgery-takes-advantage-vulnerable-app-servers
+- 
 # Networking
 - https://opensource.com/article/17/4/build-your-own-name-server
 - https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04
