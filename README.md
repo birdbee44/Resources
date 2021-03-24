@@ -38,7 +38,9 @@
 - [Interview-cheatsheets](#interview-cheatsheets)
 - [Search Engines](#search-engines)
 - [Bash](#bash)
-
+- [Html-Smuggling](#html-smuggling)
+# html-smuggling
+- https://blog.assetnote.io/2021/03/18/h2c-smuggling
 # machine-learning-and-hacking
 - https://github.com/delvelabs/batea
 - https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity
