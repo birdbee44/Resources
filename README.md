@@ -39,8 +39,11 @@
 - [Search Engines](#search-engines)
 - [Bash](#bash)
 - [Html-Smuggling](#html-smuggling)
+- 
 # html-smuggling
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling
+- https://github.com/BishopFox/h2csmuggler
+- 
 # machine-learning-and-hacking
 - https://github.com/delvelabs/batea
 - https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity
