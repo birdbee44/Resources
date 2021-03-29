@@ -292,7 +292,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - Homemade LAN turtle - https://github.com/CuPcakeN1njA/Int3rcept0r
 - Rasp pi AI Security camera - https://medium.com/berrynet/diy-your-ai-home-security-camera-with-raspberry-pi-and-open-source-software-10d4364df20f
 
-# Cryptocurrency & Blockchains
+# Cryptocurrency & Blockchains & Tokens
 - Bitcoin   -  https://www.bitcoin.com/
 - Monero    -  https://www.getmonero.org/
 - Zcash     -  https://z.cash/
@@ -314,7 +314,10 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://blockchain.unica.it/projects/blockchain-analytics
 - https://youtu.be/cjbHqvr4ffo - How Does Monero Work?
 - https://bitcoin.stackexchange.com/questions/59955/how-do-i-calculate-the-profit-of-the-value-of-my-bitcoin
-
+- https://reserve.org
+- https://foam.space
+- https://dad.one
+- 
 # Offline wallet 
 - https://moneroaddress.org
 - https://bitcoinpaperwallet.com
@@ -322,6 +325,8 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://stellarpaperwallet.com
 - https://walletgenerator.net
 
+# Govt
+- https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
 # Tor
 - Tor's web site - https://www.torproject.org/
 - Dark web sites - https://dark.fail/#Philosophy
