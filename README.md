@@ -28,7 +28,7 @@
 - [Honey Pots](#honey-pots)
 - [CTF](#ctf)
 - [CTF Tools](#ctf-tools)
-- [Cryptocurrency](#cryptocurrency--blockchains )
+- [Cryptocurrency](#cryptocurrency--blockchains--tokens )
 - [Tor](#tor)
 - [Deep Learning](#deep-learning)
 - [Threat Maps](#threat-maps)
