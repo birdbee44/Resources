@@ -317,7 +317,9 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://reserve.org
 - https://foam.space
 - https://dad.one
-- 
+- https://getravencoin.org/ravencoin-asset-token
+
+
 # Offline wallet 
 - https://moneroaddress.org
 - https://bitcoinpaperwallet.com
