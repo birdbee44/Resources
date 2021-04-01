@@ -557,7 +557,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://underthewire.tech/
 - https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639
 - https://blog.sqreen.com/local-file-inclusions-explained/
-
+- https://ctftime.org/writeup/19017
 
 # CTF Tools
 - https://github.com/lockedbyte/cryptovenom
