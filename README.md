@@ -329,10 +329,11 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 
 # Govt
 - https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
+
 # Tor
-- Tor's web site - https://www.torproject.org/
+- Tor's web site - https://www.torproject.org
 - Dark web sites - https://dark.fail/#Philosophy
-- How tor works  - https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one/
+- How tor works  - https://jordan-wright.com/blog/2015/02/28/how-tor-works-part-one
 
 # BlockChain Analysis
 - Wallet Explorer     - https://www.walletexplorer.com
@@ -345,7 +346,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://sochain.com
 
 # Centos 
-- https://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/
+- https://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation
 - https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf
 - 
 
@@ -354,7 +355,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 
 - Hybrid analysis - https://www.hybrid-analysis.com
 - VirusShare      - https://virusshare.com*
-- VirusTotal      - https://www.virustotal.com/
+- VirusTotal      - https://www.virustotal.com
 
 # Threat Maps
 - https://threatmap.checkpoint.com
@@ -436,7 +437,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards
 - https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
 - https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee
-
+- https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
