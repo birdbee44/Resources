@@ -9,3 +9,6 @@
 # CrowdStrike
 - inurl:crowdstrike.com/resources/reports
 - 
+
+# Fireeye
+- site:fireeye.com inurl:dam '"python"
