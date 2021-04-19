@@ -546,7 +546,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/mushorg/conpot
 - https://lwn.net/Articles/240120
 - https://github.com/mhils/HoneyProxy
-
+- https://github.com/amv42/sshd-honeypot
 # CTF
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
