@@ -39,7 +39,9 @@
 - [Search Engines](#search-engines)
 - [Bash](#bash)
 - [Html-Smuggling](#html-smuggling)
-- 
+- [Core](#core)
+# core
+- https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
 # html-smuggling
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling
 - https://github.com/BishopFox/h2csmuggler
