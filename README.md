@@ -296,14 +296,19 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - Rasp pi AI Security camera - https://medium.com/berrynet/diy-your-ai-home-security-camera-with-raspberry-pi-and-open-source-software-10d4364df20f
 
 # Cryptocurrency & Blockchains & Tokens
-- Bitcoin   -  https://www.bitcoin.com/
-- Monero    -  https://www.getmonero.org/
-- Zcash     -  https://z.cash/
-- Ethereum  -  https://ethereum.org/
-- RavenCoin -  https://ravencoin.org/
-- Stellar   -  https://www.stellar.org/
-- Mining    -  https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
-- 51% attack - https://github.com/cburchert/shitcoin\
+- Bitcoin    -  https://www.bitcoin.com/
+- Monero     -  https://www.getmonero.org/
+- Zcash      -  https://z.cash/
+- Ethereum   -  https://ethereum.org
+- RavenCoin  -  https://ravencoin.org
+- DogeCoin   -  https://dogecoin.com
+- TurtleCoin -  https://turtlecoin.lol
+- LiteCoin   -  https://litecoin.org
+- BitcoinCash - https://bitcoincash.org
+- Dash       -  https://www.dash.org
+- Stellar    -  https://www.stellar.org
+- Mining     -  https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+- 51% attack -  https://github.com/cburchert/shitcoin\
 - Play with blockchain - https://github.com/DutchGraa/crackcoin
 - Monero Info - https://www.monero.how/monero-infographic
 - Simulated Blockchains for Machine Learning Traceability and Transaction Values in the Monero - https://arxiv.org/abs/2001.03937
@@ -322,7 +327,8 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://dad.one
 - https://getravencoin.org/ravencoin-asset-token
 - https://hackernoon.com/what-are-stellar-assets-79b3145b5c7f
-
+- https://tronblack.medium.com/ravencoin-proof-of-authenticity-4a0d325d5347
+- 
 # Offline wallet 
 - https://moneroaddress.org
 - https://bitcoinpaperwallet.com
