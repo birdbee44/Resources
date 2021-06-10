@@ -35,11 +35,28 @@
 - [Encryption](#encryption)
 - [Red Team](#red-team)
 - [Networking](#network)
+- [random-reports](#random-reports)
 - [Interview-cheatsheets](#interview-cheatsheets)
 - [Search Engines](#search-engines)
 - [Bash](#bash)
 - [Html-Smuggling](#html-smuggling)
 - [Core](#core)
+
+# random-reports
+- https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op
+- https://www.guardicore.com/labs/the-nansh0u-campaign-hackers-arsenal-grows-stronger
+- https://graphika.com/reports/posing-as-patriots
+- https://blogs.jpcert.or.jp/en/2021/06/php_malware.html
+- https://www.vice.com/en/article/epnv8z/nypds-sprawling-facial-recognition-system-now-has-more-than-15000-cameras
+- https://blog.heckel.io/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone
+- https://cluster25.io/2021/06/03/a-not-so-fancy-game-apt28-skinnyboy
+- https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential
+- https://threatpost.com/tools-used-by-lamberts-apt-found-in-vault-7-dumps/124900
+- https://www.proofpoint.com/us/blog/threat-insight/new-variant-buer-loader-written-rust
+- https://hackaday.com/2017/04/26/hack-your-own-samsung-tv-with-the-cias-weeping-angel-exploit
+- https://www.uptycs.com/blog/discovery-of-simps-botnet-leads-ties-to-keksec-group
+- https://www.pentestpartners.com/security-blog/getting-a-persistent-shell-on-a-747-ife
+- 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
 # html-smuggling
