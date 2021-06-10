@@ -146,7 +146,10 @@
 - https://wiki.sans.blue
 - https://github.com/maldevel/blue-team
 - https://www.sneakymonkey.net/2018/06/25/blue-team-tips
-- 
+- https://devblogs.microsoft.com/powershell/powershell-the-blue-team
+- https://github.com/tobor88/PowerShell-Blue-Team
+- https://securethelogs.com/hacking-with-powershell-blue-team
+- https://www.blackhillsinfosec.com/powershell-logging-blue-team/
 - 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
@@ -154,6 +157,8 @@
 - https://www.comparitech.com/net-admin/powershell-cheat-sheet
 - https://docs.microsoft.com/en-us/power-platform/admin/wp-task-automation-powershell
 - https://www.guru99.com/powershell-tutorial.html
+- https://securethelogs.com/hacking-with-powershell-blue-team
+- 
 
 # Vulnerable VMs
 - https://github.com/cliffe/SecGen
