@@ -106,7 +106,25 @@
 - https://www.github.com/meirwah/awesome-incident-response
 - https://www.github.com/onlurking/awesome-infosec
 - https://www.github.com/secfigo/Awesome-Fuzzing
-
+- https://github.com/jklepatch/awesome-monero
+- https://github.com/decalage2/awesome-security-hardening
+- https://github.com/fabacab/awesome-lockpicking
+- https://github.com/DopplerHQ/awesome-interview-questions
+- https://github.com/fffaraz/awesome-cpp
+- https://github.com/luong-komorebi/Awesome-Linux-Software
+- https://github.com/enaqx/awesome-pentest
+- https://github.com/keon/awesome-nlp
+- https://github.com/n1trux/awesome-sysadmin
+- https://github.com/qazbnm456/awesome-web-security
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/pluja/awesome-privacy
+- https://github.com/0xInfection/Awesome-WAF
+- https://github.com/sobolevn/awesome-cryptography
+- https://github.com/fcambus/nginx-resources
+- https://github.com/janikvonrotz/awesome-powershell
+- https://github.com/Xel/Blockchain-stuff
+- https://github.com/inputsh/awesome-c
+- 
 # search-engines
 - https://buckets.grayhatwarfare.com
 - https://www.shodan.io
@@ -116,6 +134,7 @@
 
 # interview-cheatsheets
 - https://www.guru99.com/linux-interview-questions-answers.html
+- https://github.com/DopplerHQ/awesome-interview-questions
 
 # red-Team
 - https://www.ired.team
@@ -124,6 +143,10 @@
 # blue team 
 - https://securethelogs.com/hacking-with-powershell-blue-team
 - https://web.mit.edu/kerberos/
+- https://wiki.sans.blue
+- https://github.com/maldevel/blue-team
+- https://www.sneakymonkey.net/2018/06/25/blue-team-tips
+- 
 - 
 # PowerShell
 - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell
