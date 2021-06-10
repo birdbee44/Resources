@@ -464,6 +464,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
 - https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77
+
 # NEWS SITES
 - BleepingComputer  - https://bleepingcomputers.com
 - The Hacker News   - https://thehackernews.com
@@ -559,6 +560,14 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://www.cplusplus.com
 - https://docs.microsoft.com/en-us/cpp/cpp/for-statement-cpp?view=vs-2019
 - https://www.cs.bu.edu/teaching/cpp/writing-makefiles
+- https://www.cs.fsu.edu/~myers/howto/g++compiling.txt
+- https://en.cppreference.com/w/cpp/language/main_function
+- https://www.cplusplus.com/doc/tutorial/program_structure
+- https://www.guru99.com/cpp-file-read-write-open.html
+- https://www.programiz.com/cpp-programming/inheritance
+- https://docs.microsoft.com/en-us/cpp/cpp/main-function-command-line-args?view=msvc-160
+- https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp
+- 
 
 # Honey Pots
 - https://github.com/wish-i-was/femida
