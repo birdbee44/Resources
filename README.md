@@ -58,6 +58,7 @@
 - https://www.pentestpartners.com/security-blog/getting-a-persistent-shell-on-a-747-ife
 - https://news.sophos.com/en-us/2021/06/11/relentless-revil-revealed
 - https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack
+- https://www.rtcsec.com/post/2021/06/abusing-sip-for-cross-site-scripting-most-definitely
 - 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
