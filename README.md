@@ -56,12 +56,15 @@
 - https://hackaday.com/2017/04/26/hack-your-own-samsung-tv-with-the-cias-weeping-angel-exploit
 - https://www.uptycs.com/blog/discovery-of-simps-botnet-leads-ties-to-keksec-group
 - https://www.pentestpartners.com/security-blog/getting-a-persistent-shell-on-a-747-ife
+- https://news.sophos.com/en-us/2021/06/11/relentless-revil-revealed
 - 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
 # html-smuggling
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling
 - https://github.com/BishopFox/h2csmuggler
+- https://infosecwriteups.com/behind-the-scene-http-parameter-pollution-534b4fa2449c
+- 
 # Red-teaming
 - https://chaah.awankloud.my/redteaming-tips-creating-a-hidden-user
 # machine-learning-and-hacking
@@ -339,6 +342,8 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - PI hole - https://github.com/pi-hole/pi-hole
 - Homemade LAN turtle - https://github.com/CuPcakeN1njA/Int3rcept0r
 - Rasp pi AI Security camera - https://medium.com/berrynet/diy-your-ai-home-security-camera-with-raspberry-pi-and-open-source-software-10d4364df20f
+- https://hakin9.org/pi-sniffer-is-a-wi-fi-sniffer-built-on-the-raspberry-pi-zero-w
+
 
 # Cryptocurrency & Blockchains & Tokens
 - Bitcoin    -  https://www.bitcoin.com/
