@@ -41,6 +41,10 @@
 - [Bash](#bash)
 - [Html-Smuggling](#html-smuggling)
 - [Core](#core)
+- [FTP](#ftp)
+
+# FTP
+- https://serverfault.com/questions/450651/500-illegal-port-command-using-command-line-ftp
 
 # random-reports
 - https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op
