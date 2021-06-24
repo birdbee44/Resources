@@ -42,7 +42,13 @@
 - [Html-Smuggling](#html-smuggling)
 - [Core](#core)
 - [FTP](#ftp)
+- [ravencoin](#ravencoin)
 
+# ravencoin
+- https://tronblack.medium.com/ravencoin-tags-and-restricted-assets-84fe3070a226
+- https://tronblack.medium.com/ravencoin-a-securities-token-roadmap-47ae1d9dac26
+- https://github.com/RavenProject/Ravencoin/tree/master/roadmap/rewards
+- 
 # FTP
 - https://serverfault.com/questions/450651/500-illegal-port-command-using-command-line-ftp
 
