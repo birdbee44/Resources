@@ -69,6 +69,7 @@
 - https://news.sophos.com/en-us/2021/06/11/relentless-revil-revealed
 - https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack
 - https://www.rtcsec.com/post/2021/06/abusing-sip-for-cross-site-scripting-most-definitely
+- https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op
 - 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
