@@ -43,7 +43,9 @@
 - [Core](#core)
 - [FTP](#ftp)
 - [ravencoin](#ravencoin)
-
+- [ssrf](#ssrf)
+### SSRF
+- https://www.vaadata.com/blog/exploiting-the-ssrf-vulnerability/
 # ravencoin
 - https://tronblack.medium.com/ravencoin-tags-and-restricted-assets-84fe3070a226
 - https://tronblack.medium.com/ravencoin-a-securities-token-roadmap-47ae1d9dac26
@@ -301,6 +303,7 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639
 - https://www.techrepublic.com/article/how-to-sign-a-file-on-linux-with-gpg
 - https://web.mit.edu/kerberos
+- https://asecuritysite.com/encryption/rsa12_2 
 - 
 # Apts
 - https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf
@@ -462,7 +465,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://fsec404.github.io/blog/HTTP-parameter-pollution/
 - https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
 - https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn
-
+- https://www.rapid7.com/fundamentals/web-application-vulnerabilities
+- 
 # Bug Bounty
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty
 - https://www.reddit.com/r/bugbounty/comments/983odf/how_to_become_a_bug_bounty_hunter
@@ -547,6 +551,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://trustfoundry.net/bypassing-wafs-with-json-unicode-escape-sequences
 - https://realpython.com/prevent-python-sql-injection
 - https://bobby-tables.com
+- http://www.securityidiots.com/Web-Pentest/SQL-Injection/bypass-login-using-sql-injection.html
 - 
 # CSRF
 - https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
