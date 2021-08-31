@@ -233,7 +233,8 @@
 - https://malwareunicorn.org/workshops/re101.html
 - https://malwareanalysis.tools/
 - https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed
-
+- https://medium.com/free-code-camp/how-i-solved-a-simple-crackme-challenge-with-the-nsas-ghidra-d7e793c5acd2
+- 
 # Machine-Learning
 - https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 - https://github.com/PierreGe/RL-movie-recommender
