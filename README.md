@@ -44,6 +44,10 @@
 - [FTP](#ftp)
 - [ravencoin](#ravencoin)
 - [ssrf](#ssrf)
+- [Bash](#Bash)
+
+### Bash
+- https://stackoverflow.com/questions/18568706/check-number-of-arguments-passed-to-a-bash-script
 ### SSRF
 - https://www.vaadata.com/blog/exploiting-the-ssrf-vulnerability/
 # ravencoin
@@ -312,10 +316,14 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 - https://www.crowdstrike.com/blog/who-is-fancy-bear
 - https://content.fireeye.com/apt-41/rpt-apt41
 - https://threatpost.com/equation-apt-group-attack-platform-a-study-in-stealth/111550
-- https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/
+- https://securelist.com/equation-the-death-star-of-malware-galaxy/68750
 - https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf
-- http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
-
+- http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report
+- https://unit42.paloaltonetworks.com/ironnetinjector
+- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data
+- https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time
+- 
+- 
 
  # PHISHING TOOLS
 - Modlishka. Reverse Proxy    - https://github.com/drk1wi/Modlishka
