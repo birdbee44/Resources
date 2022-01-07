@@ -561,6 +561,8 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://realpython.com/prevent-python-sql-injection
 - https://bobby-tables.com
 - http://www.securityidiots.com/Web-Pentest/SQL-Injection/bypass-login-using-sql-injection.html
+- https://portswigger.net/web-security/sql-injection
+- https://www.rapid7.com/fundamentals/sql-injection-attacks/
 - 
 # CSRF
 - https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
@@ -640,6 +642,7 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://lwn.net/Articles/240120
 - https://github.com/mhils/HoneyProxy
 - https://github.com/amv42/sshd-honeypot
+- 
 # CTF
 - https://github.com/gabemarshall/microctfs
 - FaceBook CTF - https://github.com/facebook/fbctf
