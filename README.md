@@ -99,7 +99,11 @@
 - 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
-
+- https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE
+- https://github.com/coreemu/core
+- https://github.com/peppelinux/Common-Open-Research-Emulator-CORE-Tutorials
+- http://coreemu.github.io/core
+- 
 # html-smuggling
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling
 - https://github.com/BishopFox/h2csmuggler
