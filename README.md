@@ -45,11 +45,26 @@
 - [ravencoin](#ravencoin)
 - [ssrf](#ssrf)
 - [Bash](#Bash)
+- [Mysql](#Mysql)
+
+# Mysql
+- https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+- https://codingsight.com/top-5-mysql-create-table-syntax-for-t-sql-developers
+- https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
 ### Bash
 - https://stackoverflow.com/questions/18568706/check-number-of-arguments-passed-to-a-bash-script
+- https://linuxize.com/post/bash-functions
+- https://devhints.io/bash
+- https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file
+- https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
+- https://www.journaldev.com/41511/execute-command-shell-script
+- https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
+- https://www.shellcheck.net
+- 
 ### SSRF
-- https://www.vaadata.com/blog/exploiting-the-ssrf-vulnerability/
+- https://www.vaadata.com/blog/exploiting-the-ssrf-vulnerability
+
 # ravencoin
 - https://tronblack.medium.com/ravencoin-tags-and-restricted-assets-84fe3070a226
 - https://tronblack.medium.com/ravencoin-a-securities-token-roadmap-47ae1d9dac26
@@ -57,7 +72,12 @@
 - 
 # FTP
 - https://serverfault.com/questions/450651/500-illegal-port-command-using-command-line-ftp
-
+- https://tecadmin.net/download-upload-files-using-ftp-command-line/
+- https://docs.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/site/ftpserver/security/authentication/anonymousauthentication
+- https://kb.iu.edu/d/aenq
+- https://book.hacktricks.xyz/pentesting/pentesting-ftp
+- https://steflan-security.com/ftp-enumeration-guide
+- 
 # random-reports
 - https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op
 - https://www.guardicore.com/labs/the-nansh0u-campaign-hackers-arsenal-grows-stronger
@@ -79,6 +99,7 @@
 - 
 # core
 - https://github.com/nickcapurso/CORE-Worm-Keylogger-CSCI-6531
+
 # html-smuggling
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling
 - https://github.com/BishopFox/h2csmuggler
@@ -86,6 +107,7 @@
 - 
 # Red-teaming
 - https://chaah.awankloud.my/redteaming-tips-creating-a-hidden-user
+
 # machine-learning-and-hacking
 - https://github.com/delvelabs/batea
 - https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity
@@ -93,9 +115,7 @@
 - https://github.com/gyoisamurai/GyoiThon
 - https://github.com/Kayzaks/HackingNeuralNetworks
 - http://taochen.github.io/publications/papers/issta20.pdf
-# Bash
-- https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index
-- https://www.shellcheck.net
+- 
 
 # ssrf 
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/server-side-request-forgery-takes-advantage-vulnerable-app-servers
@@ -157,7 +177,8 @@
 # interview-cheatsheets
 - https://www.guru99.com/linux-interview-questions-answers.html
 - https://github.com/DopplerHQ/awesome-interview-questions
-
+- https://github.com/pbnj/infosec-interview-questions
+- 
 # red-Team
 - https://www.ired.team
 - https://artkond.com/2017/03/23/pivoting-guide
@@ -413,7 +434,11 @@ rks-to-make-8-bit-pixel-art-e45d9b96cee7
 
 # Govt
 - https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
-
+- https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final
+- https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+- https://csrc.nist.gov/publications/detail/sp/800-94/final
+- https://www.nist.gov/risk-management
+- 
 # Tor
 - Tor's web site - https://www.torproject.org
 - Dark web sites - https://dark.fail/#Philosophy
@@ -465,6 +490,9 @@ NOTE: The ones with * after the links are ones that are vetted. If you use your 
 - https://github.com/guelfoweb/knock
 - https://github.com/nahamsec/lazyrecon
 - https://cirt.net/Nikto2
+- https://github.com/yanxiu0614/subdomain3
+- https://github.com/swisskyrepo/SSRFmap
+- 
 
 # WEB 
 - Trasxss automated XSS                                      - https://github.com/M4cs/traxss
